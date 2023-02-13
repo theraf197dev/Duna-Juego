@@ -25,9 +25,13 @@ const controls = [
     },
 ];
 
-const size = 8;
+const difficulty = 1;
+const mode = 'trial';
+const size = 11;
 
 export {
     controls,
     size,
+    difficulty,
+    mode,
 };

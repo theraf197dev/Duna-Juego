@@ -1,5 +1,15 @@
 import styled, { css } from "styled-components";
 
+const ContainerStyles = styled.div`
+    display: flex;
+    align-items: center;
+`;
+
+const TextStyles = styled.div`
+    text-align: center;
+`;
+
+
 const TableStyles = styled.div`
     display: grid;
     gap: 5px;
@@ -32,7 +42,9 @@ const ImageStyles = styled.img`
 `;
 
 export {
-    TableStyles,
     CellStyles,
+    ContainerStyles,
     ImageStyles,
+    TableStyles,
+    TextStyles,
 };
