@@ -4,7 +4,7 @@ const ContainerStyles = styled.div`
     display: grid;
     justify-content: center;
     grid-template-columns: 70px 70px 70px;
-    padding: 10px;
+    padding: 30px;
 `;
 
 const ButtonStyles = styled.button`

@@ -2,8 +2,8 @@ import React, { Component }  from "react";
 import {
     CellType,
 } from '../common/utils';
-import Controller from "./Controller";
 import setInitBoard from "./helper";
+import Controller from "./Controller";
 
 export default class Model extends Component {
     constructor(props) {
@@ -14,6 +14,13 @@ export default class Model extends Component {
                 x: Math.floor((props.size - 1) / 2),
                 y: Math.floor((props.size - 1) / 2),
             },
+            seekerCurrentPos: {
+                x: 0,
+                y: 0,
+            },
+            coverSeekerValue: CellType.pizza,
+            timer: 0,
+            isGameAlive: true,
             lastInput: {
                 vector: 'y',
                 incr: 1,
@@ -22,30 +29,69 @@ export default class Model extends Component {
         this.bindActions();
     };
 
-    componentDidMount() {
-        this.setInitialMatrix();
-    }
-
     bindActions() {
         this.setCurrentPos = this.setCurrentPos.bind(this);
         this.setMatrix = this.setMatrix.bind(this);
         this.setLastInput = this.setLastInput.bind(this);
+        this.stopInterval = this.stopInterval.bind(this);
+        this.endGame = this.endGame.bind(this);
     }
 
-    setCurrentPos(vector, incr){
+    componentDidMount() {
+        this.setInitialMatrix();
+        if(this.props.mode === 'seeker'){
+            this.interval = setInterval(() => {
+                this.setSeekerPos('x', 1);
+            }, 3000);
+        }
+    }
+
+    componentWillUnmount() {
+        if(this.props.mode === 'seeker'){
+            this.stopInterval();
+        }
+    }
+
+    stopInterval() {
+        clearInterval(this.interval);
+    }
+
+    endGame() {
+        this.props.setGame(false);
+    }
+
+    setCurrentPos(vector, incr) {
         this.setState({
             currentPos: {
                 ...this.state.currentPos,
                 [vector]: this.state.currentPos[vector] + incr,
             },
             matrix: this.state.matrix.map((col, x) =>
-                col.map((cell, y) => cell !== CellType.duna ? cell : CellType.blank)
+                col.map((cell) => cell !== CellType.duna ? cell : CellType.blank)
             ),
         });
     };
 
-    setMatrix(value) {
-        const {x, y} = this.state.currentPos;
+    setSeekerPos(vector, incr) {
+        const nextSeekerPos = {
+            ...this.state.seekerCurrentPos,
+            [vector]: this.state.seekerCurrentPos[vector] + incr,
+        };
+
+        this.setState({
+            seekerCurrentPos: {
+                ...this.state.seekerCurrentPos,
+                [vector]: this.state.seekerCurrentPos[vector] + incr,
+            },
+            matrix: this.state.matrix.map((col, x) =>
+                col.map((cell) => cell !== CellType.seeker ? cell : this.state.coverSeekerValue)
+            ),
+            coverSeekerValue: this.state.matrix[nextSeekerPos.x][nextSeekerPos.y],
+        });
+    };
+
+    setMatrix(value, pos = this.state.currentPos) {
+        const {x, y} = pos;
         this.setState({
             matrix: this.state.matrix.map((col, index) =>
                 index === x ?
@@ -56,8 +102,7 @@ export default class Model extends Component {
     };
 
     setInitialMatrix() {
-        const board = setInitBoard(this.state.currentPos, this.props.size);
-
+        const board = setInitBoard(this.props.size, this.props.mode, this.props.difficulty);
         this.setState({
             matrix: this.state.matrix.map((col, x) =>
                 col.map((cell, y) => board[x][y])
@@ -76,9 +121,11 @@ export default class Model extends Component {
             <Controller
                 {...this.props}
                 {...this.state}
+                endGame={this.endGame}
                 setCurrentPos={this.setCurrentPos}
-                setMatrix={this.setMatrix}
                 setLastInput={this.setLastInput}
+                setMatrix={this.setMatrix}
+                stopInterval={this.stopInterval}
             />
         )
     };

@@ -1,8 +1,10 @@
 import React from 'react';
 import {
-    TableStyles,
     CellStyles,
+    ContainerStyles,
     ImageStyles,
+    TableStyles,
+    TextStyles,
 } from './View.styles.jsx';
 import {
     CellType,
@@ -29,21 +31,23 @@ const Game = ({
         <>
             {matrix ?
                 (<>
-                    <span>
+                    <TextStyles>
                         <h1>DUNA JUEGO</h1>
                         <h2>Atrapa la pizzita</h2>
-                    </span>
-                    <TableStyles>
-                        {matrix.map((row, index) => <tr key={index}><Row row={row} key={index} lastInput={lastInput} /></tr>)}
-                    </TableStyles>
-                    <Controls
-                        matrix={matrix}
-                        currentPos={currentPos}
-                        setCurrentPos={setCurrentPos}
-                        setLastInput={setLastInput}
-                        size={size}
-                        controls={controls}
-                    />
+                    </TextStyles>
+                    <ContainerStyles>
+                        <TableStyles>
+                            {matrix.map((row, index) => <tr key={index}><Row row={row} key={index} lastInput={lastInput} /></tr>)}
+                        </TableStyles>
+                        <Controls
+                            matrix={matrix}
+                            currentPos={currentPos}
+                            setCurrentPos={setCurrentPos}
+                            setLastInput={setLastInput}
+                            size={size}
+                            controls={controls}
+                        />
+                    </ContainerStyles>
                 </>) :
                 null
             }

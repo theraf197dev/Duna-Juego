@@ -1,10 +1,15 @@
 import './App.css';
-import Game from './game/Model';
-import { controls, size } from './common/fixtures';
+import {
+  controls,
+  difficulty,
+  size,
+  mode,
+ } from './common/fixtures';
+import Menu from './menu/Model';
 
 function App() {
   return (
-    <Game size={size} controls={controls} />
+    <Menu size={size} controls={controls} difficulty={difficulty} mode={mode} />
   );
 }
 

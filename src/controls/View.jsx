@@ -6,11 +6,14 @@ import {
   CrossStyles,
   FigureStyles,
 } from './View.styles.jsx';
+import { canMove } from '../common/utils.js';
 
 const View = ({
-    canMove,
-    handleChangePosition,
     controls,
+    currentPos,
+    handleChangePosition,
+    matrix,
+    size,
 }) => {
   return (
     <ContainerStyles>
@@ -18,7 +21,7 @@ const View = ({
         <ButtonStyles
           control={control}
           key={control.id}
-          disabled={!canMove(control.vector, control.incr)}
+          disabled={!canMove(matrix, currentPos, control.vector, control.incr, size)}
           onClick={() => handleChangePosition(control.vector, control.incr)}
         >
           <FigureStyles control={control} />
