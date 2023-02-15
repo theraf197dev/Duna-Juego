@@ -11,13 +11,13 @@ import {
 
 const MenuView = ({
     games,
-    initGame,
+    setGame,
     selected,
     setDifficultyLvl,
     setSelected,
 }) => {
     return (
-        <form onSubmit={() => initGame()}>
+        <form onSubmit={() => setGame(true)}>
             <ContainerStyles>
                 {games.items.map(({name, url}) =>
                     <div key={name}>
@@ -44,21 +44,17 @@ const MenuView = ({
     );
 };
 
-
-
 const Menu = ({
     board,
     controls,
     difficulty,
     games,
-    initGame,
-    isGameAlive,
     mode,
-    setGame,
     size,
 }) => {
     const [selected, setSelected] = useState(mode);
     const [difficultyLvl, setDifficultyLvl] = useState(difficulty);
+    const [isGameAlive, setGame] = useState(false);
 
     return (
         <>
@@ -74,9 +70,9 @@ const Menu = ({
                 :
                 <MenuView
                     games={games}
-                    initGame={initGame}
                     selected={selected}
                     setDifficultyLvl={setDifficultyLvl}
+                    setGame={setGame}
                     setSelected={setSelected}
                 />
             }

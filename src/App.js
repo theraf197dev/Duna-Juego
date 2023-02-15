@@ -6,7 +6,7 @@ import {
   mode,
   size,
 } from './common/fixtures';
-import Menu from './menu/Model';
+import Menu from './menu/View.jsx';
 
 function App() {
   return (
