@@ -14,6 +14,7 @@ const Toogle = ({
     id,
 }) => {
     const [isChecked, setIsChecked] = useState(false);
+
     return (
         <ContainerToogleStyles>
             <ToogleStyles
@@ -22,7 +23,7 @@ const Toogle = ({
                 isChecked={isChecked}
                 onChange={() => {
                     setIsChecked(!isChecked);
-                    handleChange();
+                    handleChange(!isChecked);
                 }}
             />
             <ToogleLabelStyles htmlFor={id} isChecked={isChecked}>
@@ -35,9 +36,5 @@ const Toogle = ({
         </ContainerToogleStyles>
     )
 };
-
-Toogle.defaultProps = {
-    handleChange: () => console.log('toggle change'),
-}
 
 export default Toogle;

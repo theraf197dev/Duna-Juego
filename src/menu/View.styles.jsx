@@ -4,6 +4,7 @@ const ContainerStyles = styled.div`
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding: 20px;
 `;
 
 const ImageStyles = styled.img`
@@ -12,6 +13,20 @@ const ImageStyles = styled.img`
         height: 300px;
         width: 500px;
     `}
+`;
+
+const ToggleStyles = styled.div`
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: flex-start;
+    justify-content: center;
+
+    label {
+        padding-right: 10px;
+        font-size: 20px;
+        user-select: none;
+    }
 `;
 
 const GameStyles = styled.div`
@@ -30,7 +45,12 @@ const GameStyles = styled.div`
     padding: 0px;
     overflow: hidden;
     transition: all .5s;
+    index: 1;
     box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+
+    &:hover {
+        transform: scale(1.1);
+    }
 `;
 
 const SpanStyles = styled.span`
@@ -131,4 +151,5 @@ export {
     ImageStyles,
     GameStyles,
     SpanStyles,
+    ToggleStyles,
 };

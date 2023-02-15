@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components";
 
 const ContainerToogleStyles = styled.div`
-    padding: 30px;
+    padding: 50px;
     position: relative;
     user-select: none;
 `;

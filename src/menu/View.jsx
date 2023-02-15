@@ -6,6 +6,7 @@ import {
     ImageStyles,
     GameStyles,
     SpanStyles,
+    ToggleStyles,
 } from './View.styles.jsx';
 
 const MenuView = ({
@@ -13,24 +14,32 @@ const MenuView = ({
     games,
     selected,
     setSelected,
+    setDifficultyLvl,
+    difficultyLvl,
 }) => {
     return (
         <form onSubmit={() => initGame()}>
             <ContainerStyles>
                 {games.items.map(({name, url}) =>
-                    <div key={name} onClick={() => setSelected(name)}>
+                    <div key={name}>
                         <h2>{name}</h2>
                         <GameStyles>
-                            <ImageStyles src={url} />
+                            <ImageStyles src={url} onClick={() => setSelected(name)} />
                             <SpanStyles id={1} selected={selected} name={name} />
                             <SpanStyles id={2} selected={selected} name={name} />
                             <SpanStyles id={3} selected={selected} name={name} />
                             <SpanStyles id={4} selected={selected} name={name} />
                         </GameStyles>
-                        <Toogle id={name} />
                     </div>
                 )}
             </ContainerStyles>
+            <ToggleStyles>
+                <label>Difficulty</label>
+                <Toogle
+                    handleChange={(isChecked) => setDifficultyLvl(isChecked + 1)}
+                    id='difficulty'
+                />
+            </ToggleStyles>
             <Button buttonText='Play' />
         </form>
     );
@@ -50,6 +59,8 @@ const Menu = ({
     size,
 }) => {
     const [selected, setSelected] = useState(mode);
+    const [difficultyLvl, setDifficultyLvl] = useState(difficulty);
+
     return (
         <>
             {isGameAlive ?
@@ -59,7 +70,7 @@ const Menu = ({
                     mode={selected}
                     setGame={setGame}
                     board={board}
-                    difficulty={difficulty}
+                    difficulty={difficultyLvl}
                 />
                 :
                 <MenuView
@@ -67,6 +78,8 @@ const Menu = ({
                     selected={selected}
                     setSelected={setSelected}
                     initGame={initGame}
+                    difficultyLvl={difficultyLvl}
+                    setDifficultyLvl={setDifficultyLvl}
                 />
             }
         </>
