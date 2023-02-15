@@ -3,19 +3,18 @@ import Game from '../game/Model';
 import { Toogle, Button } from '../styled-components';
 import {
     ContainerStyles,
-    ImageStyles,
     GameStyles,
+    ImageStyles,
     SpanStyles,
     ToggleStyles,
 } from './View.styles.jsx';
 
 const MenuView = ({
-    initGame,
     games,
+    initGame,
     selected,
-    setSelected,
     setDifficultyLvl,
-    difficultyLvl,
+    setSelected,
 }) => {
     return (
         <form onSubmit={() => initGame()}>
@@ -51,8 +50,8 @@ const Menu = ({
     board,
     controls,
     difficulty,
-    initGame,
     games,
+    initGame,
     isGameAlive,
     mode,
     setGame,
@@ -65,21 +64,20 @@ const Menu = ({
         <>
             {isGameAlive ?
                 <Game
-                    size={size}
+                    board={board}
                     controls={controls}
+                    difficulty={difficultyLvl}
                     mode={selected}
                     setGame={setGame}
-                    board={board}
-                    difficulty={difficultyLvl}
+                    size={size}
                 />
                 :
                 <MenuView
                     games={games}
-                    selected={selected}
-                    setSelected={setSelected}
                     initGame={initGame}
-                    difficultyLvl={difficultyLvl}
+                    selected={selected}
                     setDifficultyLvl={setDifficultyLvl}
+                    setSelected={setSelected}
                 />
             }
         </>

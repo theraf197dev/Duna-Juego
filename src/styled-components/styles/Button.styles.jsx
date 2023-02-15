@@ -5,28 +5,28 @@ const ContainerButtonStyles = styled.div`
 `;
 
 const ButtonStyles = styled.button`
-    width:200px;
-    height:70px;
     background: linear-gradient(to left top, #c32c71 50%, #b33771 50%);
     border-style: none;
-    color:#fff;
-    font-size: 23px;
-    letter-spacing: 3px;
-    font-family: 'Lato';
-    font-weight: 600;
-    outline: none;
-    cursor: pointer;
-    position: relative;
-    padding: 0px;
-    overflow: hidden;
-    transition: all .5s;
     box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+    color:#fff;
+    cursor: pointer;
+    font-family: 'Lato';
+    font-size: 23px;
+    font-weight: 600;
+    height: 70px;
+    letter-spacing: 3px;
+    outline: none;
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+    transition: all .5s;
+    width: 200px;
 
     &:hover{
         backgorund-color: red;
-        transition: all .5s;
-        transform: rotate(-3deg) scale(1.1);
         box-shadow: 0px 3px 5px rgba(0,0,0,.4);
+        transform: rotate(-3deg) scale(1.1);
+        transition: all .5s;
 
         span {
             animation-play-state: paused;
@@ -36,19 +36,19 @@ const ButtonStyles = styled.button`
 
 const SpanStyles = styled.span`
     ${({ id }) => css`
-        position: absolute;
         display: block;
+        position: absolute;
 
         ${id === 1 && css`
-            height: 3px;
-            width: 200px;
-            top: 0px;
-            left: -200px;
-            background: linear-gradient(to right, rgba(0,0,0,0), #f6e58d);
-            border-top-right-radius: 1px;
-            border-bottom-right-radius: 1px;
-            animation: span1 2s linear infinite;
             animation-delay: .5s;
+            animation: span1 2s linear infinite;
+            background: linear-gradient(to right, rgba(0,0,0,0), #f6e58d);
+            border-bottom-right-radius: 1px;
+            border-top-right-radius: 1px;
+            height: 3px;
+            left: -200px;
+            top: 0px;
+            width: 200px;
 
             @keyframes span1{
                 0%{
@@ -61,15 +61,15 @@ const SpanStyles = styled.span`
         `}
 
         ${id === 2 && css`
-            height: 70px;
-            width: 3px;
-            top:-70px;
-            right:0px;
+            animation-delay: 1.5s;
+            animation: span2 2s linear infinite;
             background: linear-gradient(to bottom, rgba(0,0,0,0), #f6e58d);
             border-bottom-left-radius: 1px;
             border-bottom-right-radius: 1px;
-            animation: span2 2s linear infinite;
-            animation-delay: 1.5s;
+            height: 70px;
+            right: 0px;
+            top: -70px;
+            width: 3px;
 
             @keyframes span2{
                 0%{
@@ -82,15 +82,15 @@ const SpanStyles = styled.span`
         `}
 
         ${id === 3 && css`
-            height:3px;
-            width:200px;
-            right:-200px;
-            bottom: 0px;
-            background: linear-gradient(to left, rgba(0,0,0,0), #f6e58d);
-            border-top-left-radius: 1px;
-            border-bottom-left-radius: 1px;
-            animation: span3 2s linear infinite;
             animation-delay: 2.5s;
+            animation: span3 2s linear infinite;
+            background: linear-gradient(to left, rgba(0,0,0,0), #f6e58d);
+            border-bottom-left-radius: 1px;
+            border-top-left-radius: 1px;
+            bottom: 0px;
+            height: 3px;
+            right: -200px;
+            width: 200px;
 
             @keyframes span3{
                 0%{
@@ -103,15 +103,15 @@ const SpanStyles = styled.span`
         `}
 
         ${id === 4 && css`
-            height:70px;
-            width:3px;
-            bottom:-70px;
-            left:0px;
-            background: linear-gradient(to top, rgba(0,0,0,0), #f6e58d);
-            border-top-right-radius: 1px;
-            border-top-left-radius: 1px;
-            animation: span4 2s linear infinite;
             animation-delay: 3.5s;
+            animation: span4 2s linear infinite;
+            background: linear-gradient(to top, rgba(0,0,0,0), #f6e58d);
+            border-top-left-radius: 1px;
+            border-top-right-radius: 1px;
+            bottom: -70px;
+            height: 70px;
+            left: 0px;
+            width: 3px;
 
             @keyframes span4{
                 0%{
@@ -126,7 +126,7 @@ const SpanStyles = styled.span`
 `;
 
 export {
-    ContainerButtonStyles,
     ButtonStyles,
+    ContainerButtonStyles,
     SpanStyles,
 };

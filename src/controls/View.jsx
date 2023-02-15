@@ -1,8 +1,8 @@
 import React from 'react';
 import {
   ButtonStyles,
-  ContainerStyles,
   CircleStyles,
+  ContainerStyles,
   CrossStyles,
   FigureStyles,
 } from './View.styles.jsx';
@@ -20,8 +20,8 @@ const View = ({
       {controls.map((control) =>
         <ButtonStyles
           control={control}
-          key={control.id}
           disabled={!canMove(matrix, currentPos, control.vector, control.incr, size)}
+          key={control.id}
           onClick={() => handleChangePosition(control.vector, control.incr)}
         >
           <FigureStyles control={control} />

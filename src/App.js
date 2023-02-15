@@ -2,10 +2,10 @@ import './App.css';
 import {
   controls,
   difficulty,
-  size,
-  mode,
   games,
- } from './common/fixtures';
+  mode,
+  size,
+} from './common/fixtures';
 import Menu from './menu/Model';
 
 function App() {
@@ -16,7 +16,13 @@ function App() {
           <h1>DUNA JUEGO</h1>
           <h2>Atrapa la pizzita</h2>
       </span>
-      <Menu size={size} controls={controls} difficulty={difficulty} mode={mode} games={games} />
+      <Menu
+        controls={controls}
+        difficulty={difficulty}
+        games={games}
+        mode={mode}
+        size={size}
+      />
     </>
   );
 }

@@ -18,13 +18,13 @@ const Row = ({ row, lastInput }) => {
 };
 
 const Game = ({
-    matrix,
+    controls,
     currentPos,
+    lastInput,
+    matrix,
     setCurrentPos,
     setLastInput,
-    lastInput,
     size,
-    controls,
 }) => {
     return (
         <>
@@ -35,12 +35,12 @@ const Game = ({
                             {matrix.map((row, index) => <tr key={index}><Row row={row} key={index} lastInput={lastInput} /></tr>)}
                         </TableStyles>
                         <Controls
-                            matrix={matrix}
+                            controls={controls}
                             currentPos={currentPos}
+                            matrix={matrix}
                             setCurrentPos={setCurrentPos}
                             setLastInput={setLastInput}
                             size={size}
-                            controls={controls}
                         />
                     </ContainerStyles>
                 </>) :

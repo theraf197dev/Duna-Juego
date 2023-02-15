@@ -1,7 +1,7 @@
-import Toogle from "./components/Toggle";
 import Button from "./components/Button";
+import Toogle from "./components/Toggle";
 
 export {
-    Toogle,
     Button,
+    Toogle,
 };

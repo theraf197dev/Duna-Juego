@@ -22,8 +22,8 @@ const Toogle = ({
                 type="checkbox"
                 isChecked={isChecked}
                 onChange={() => {
-                    setIsChecked(!isChecked);
                     handleChange(!isChecked);
+                    setIsChecked(!isChecked);
                 }}
             />
             <ToogleLabelStyles htmlFor={id} isChecked={isChecked}>

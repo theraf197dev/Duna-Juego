@@ -2,31 +2,31 @@ import styled, { css } from "styled-components";
 
 const ContainerStyles = styled.div`
     display: grid;
-    justify-content: center;
     grid-template-columns: 70px 70px 70px;
+    justify-content: center;
     padding: 30px;
 `;
 
 const ButtonStyles = styled.button`
     ${({control}) => css`
         background-color: #333333;
-        width: 70px;
-        height: 70px;
         border: none;
         display: flex;
+        height: 70px;
         justify-content: center;
+        width: 70px;
 
         ${control.vector === 'y' && css`
-            grid-row: 2;
-            grid-column: ${control.incr === -1 ? 1 : 3};
-            justify-self: ${control.incr === -1 ? 'self-end' : 'self-start'};
             border-radius: ${control.incr === -1 ? '15% 0 0 15%' : '0 15% 15% 0'};
+            grid-column: ${control.incr === -1 ? 1 : 3};
+            grid-row: 2;
+            justify-self: ${control.incr === -1 ? 'self-end' : 'self-start'};
         `}
 
         ${control.vector === 'x' && css`
-            grid-row: ${control.incr === -1 ? 1 : 3};
-            grid-column: 2;
             border-radius: ${control.incr === -1 ? '15% 15% 0 0' : '0 0 15% 15%'};
+            grid-column: 2;
+            grid-row: ${control.incr === -1 ? 1 : 3};
         `}
     `}
 `;
@@ -34,9 +34,9 @@ const ButtonStyles = styled.button`
 const FigureStyles = styled.div`
     ${({control}) => css`
         background-color: #1e1e1e;
-        width: 35px;
         height: 35px;
         place-self: center;
+        width: 35px;
 
         ${control.vector === 'y' && css`
             border-radius: ${control.incr === -1 ? '25% 0 0 25%' : '0 25% 25% 0'};
@@ -50,27 +50,27 @@ const FigureStyles = styled.div`
 
 const CircleStyles = styled.div`
     background-color: #1e1e1e;
-    width: 55px;
-    height: 55px;
     border-radius: 100%;
+    height: 55px;
     place-self: center;
+    width: 55px;
 `;
 
 const CrossStyles = styled.div`
     background-color: #333333;
-    width: 100%;
-    height: 100%;
-    grid-row: 2;
-    grid-column: 2;
     display: flex;
-    place-self: center;
+    grid-column: 2;
+    grid-row: 2;
+    height: 100%;
     justify-content: space-around;
+    place-self: center;
+    width: 100%;
 `;
 
 export {
-    ContainerStyles,
     ButtonStyles,
     CircleStyles,
+    ContainerStyles,
     CrossStyles,
     FigureStyles,
 };

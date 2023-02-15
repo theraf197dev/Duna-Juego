@@ -1,13 +1,13 @@
 import React from 'react';
 import {
-    ContainerButtonStyles,
     ButtonStyles,
+    ContainerButtonStyles,
     SpanStyles,
 } from '../styles/Button.styles';
 
 const Button = ({
-    handleSubmit,
     buttonText,
+    handleSubmit,
 }) => {
   return (
     <ContainerButtonStyles>

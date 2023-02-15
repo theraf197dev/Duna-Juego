@@ -77,14 +77,14 @@ const ToogleSecondStarStyles = styled.div`
 
 const ToogleMoonStyles = styled.div`
     ${({ isChecked }) => css`
-        position: absolute;
-        bottom: ${isChecked ? '8px' : '-52px'};
-        right: 8px;
-        width: 40px;
-        height: 40px;
         background-color: #fff;
         border-radius: 50%;
+        bottom: ${isChecked ? '8px' : '-52px'};
+        height: 40px;
+        position: absolute;
+        right: 8px;
         transition: 0.3s ease bottom;
+        width: 40px;
 
         &:before {
             background-color: ${isChecked ? '#000' : '#03a9f4'};
