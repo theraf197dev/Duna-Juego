@@ -12,7 +12,7 @@ export default class Controller extends Component {
         if(prevProps.seekerCurrentPos !== this.props.seekerCurrentPos) {
             this.props.setMatrix(CellType.seeker, this.props.seekerCurrentPos);
         }
-        if(prevProps.isGameAlive !== this.props.isGameAlive && this.props.mode === 'seeker') {
+        if(prevProps.isGameAlive !== this.props.isGameAlive && this.props.mode === 'SEEKER') {
             this.props.stopInterval();
         }
     }
@@ -25,5 +25,6 @@ export default class Controller extends Component {
             />
         )
     }
-}
+};
 
+Controller.displayName = 'ControllerGame';

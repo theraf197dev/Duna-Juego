@@ -1,3 +1,6 @@
+import trialImage from '../media/trial_mode.jpg';
+import seekerImage from '../media/seeker_mode.jpg';
+
 const controls = [
     {
         id: 1,
@@ -25,13 +28,27 @@ const controls = [
     },
 ];
 
+const games = {
+    items: [
+        {
+            name: 'TRIAL',
+            url: trialImage,
+        },
+        {
+            name: 'SEEKER',
+            url: seekerImage,
+        },
+    ],
+};
+
 const difficulty = 1;
-const mode = 'trial';
+const mode = 'TRIAL';
 const size = 11;
 
 export {
     controls,
-    size,
     difficulty,
+    games,
     mode,
+    size,
 };

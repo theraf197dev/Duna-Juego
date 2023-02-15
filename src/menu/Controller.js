@@ -12,8 +12,7 @@ export default class Controller extends Component {
     }
 
     initGame() {
-        
-        this.props.setGame(true);
+        this.props.startGame(this.props.difficulty, this.props.mode);
     }
 
     render() {
@@ -26,3 +25,4 @@ export default class Controller extends Component {
     }
 }
 
+Controller.displayName = 'ControllerMenu';

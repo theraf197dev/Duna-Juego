@@ -39,15 +39,15 @@ export default class Model extends Component {
 
     componentDidMount() {
         this.setInitialMatrix();
-        if(this.props.mode === 'seeker'){
+        if(this.props.mode === 'SEEKER'){
             this.interval = setInterval(() => {
                 this.setSeekerPos('x', 1);
-            }, 3000);
+            }, 500);
         }
     }
 
     componentWillUnmount() {
-        if(this.props.mode === 'seeker'){
+        if(this.props.mode === 'SEEKER'){
             this.stopInterval();
         }
     }
@@ -129,5 +129,7 @@ export default class Model extends Component {
             />
         )
     };
-}
+};
+
+Model.displayName = 'ModelGame';
 

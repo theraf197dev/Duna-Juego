@@ -3,12 +3,8 @@ import styled, { css } from "styled-components";
 const ContainerStyles = styled.div`
     display: flex;
     align-items: center;
+    justify-content: center;
 `;
-
-const TextStyles = styled.div`
-    text-align: center;
-`;
-
 
 const TableStyles = styled.div`
     display: grid;
@@ -25,6 +21,7 @@ const ImageStyles = styled.img`
     border-radius: 5px;
     height: 50px;
     width: 50px;
+
     ${({ lastInput, player }) => css`
         ${player && css`
             rotate: ${lastInput.incr === 1 ? '270deg' :'90deg'};
@@ -46,5 +43,4 @@ export {
     ContainerStyles,
     ImageStyles,
     TableStyles,
-    TextStyles,
 };

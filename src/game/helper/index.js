@@ -40,7 +40,7 @@ const obstaclesCondition = (board, vector, difficulty = 1) => {
 
 const seekerMode = (board, currentPos, size, difficulty) => {
     board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.pizza));
-    board.map((col, x) => obstaclesCondition(board, x, difficulty) ?
+    board = board.map((col, x) => obstaclesCondition(board, x, difficulty) ?
         col.map((cell, y) => obstaclesCondition(board, y, difficulty) ? CellType.obstacle : cell)
         : col
     );
@@ -81,10 +81,10 @@ const setInitBoard = (size, mode, difficulty) => {
     };
 
     switch (mode) {
-        case 'trial':
+        case 'TRIAL':
             board = trialMode(board, currentPos, size, difficulty);
             break;
-        case 'seeker':
+        case 'SEEKER':
             board = seekerMode(board, currentPos, size, difficulty);
             break;
         default:

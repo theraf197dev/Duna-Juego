@@ -4,7 +4,6 @@ import {
     ContainerStyles,
     ImageStyles,
     TableStyles,
-    TextStyles,
 } from './View.styles.jsx';
 import {
     CellType,
@@ -31,10 +30,6 @@ const Game = ({
         <>
             {matrix ?
                 (<>
-                    <TextStyles>
-                        <h1>DUNA JUEGO</h1>
-                        <h2>Atrapa la pizzita</h2>
-                    </TextStyles>
                     <ContainerStyles>
                         <TableStyles>
                             {matrix.map((row, index) => <tr key={index}><Row row={row} key={index} lastInput={lastInput} /></tr>)}
