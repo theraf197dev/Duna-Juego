@@ -38,24 +38,35 @@ const obstaclesCondition = (board, vector, difficulty = 1) => {
     }
 };
 
-const seekerMode = (board, currentPos, size, difficulty) => {
-    board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.pizza));
+const seekerMode = (currentPos, size, difficulty) => {
+    let pizzas = (size * size) - 1;
+    let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.pizza));
     board = board.map((col, x) => obstaclesCondition(board, x, difficulty) ?
-        col.map((cell, y) => obstaclesCondition(board, y, difficulty) ? CellType.obstacle : cell)
+        col.map((cell, y) => {
+            if(obstaclesCondition(board, y, difficulty)){
+                pizzas--;
+                return CellType.obstacle;
+            }
+
+            return cell;
+        })
         : col
     );
 
     setBoard(board, CellType.duna, currentPos.x, currentPos.y);
     setBoard(board, CellType.seeker, 0, 0);
 
-    return board;
+    return {
+        board,
+        pizzas,
+    };
 };
 
-const trialMode = (board, currentPos, size, difficulty) => {
+const trialMode = (currentPos, size, difficulty) => {
     const pizzas = (size + size) / 2;
     const obstacles = size - 1;
 
-    board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.blank));
+    let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.blank));
     setBoard(board, CellType.duna, currentPos.x, currentPos.y);
 
     let freePositions = createFreeBoardPositions(board);
@@ -70,11 +81,16 @@ const trialMode = (board, currentPos, size, difficulty) => {
         }
     }
 
-    return board;
+    const data = {
+        board,
+        pizzas,
+    };
+
+    return data;
 };
 
 const setInitBoard = (size, mode, difficulty) => {
-    let board;
+    let data;
     const currentPos = {
         x: Math.floor((size - 1) / 2),
         y: Math.floor((size - 1) / 2),
@@ -82,16 +98,16 @@ const setInitBoard = (size, mode, difficulty) => {
 
     switch (mode) {
         case 'TRIAL':
-            board = trialMode(board, currentPos, size, difficulty);
+            data = trialMode(currentPos, size, difficulty);
             break;
         case 'SEEKER':
-            board = seekerMode(board, currentPos, size, difficulty);
+            data = seekerMode(currentPos, size, difficulty);
             break;
         default:
-            board = trialMode(board, currentPos, size, difficulty);
+            data = trialMode(currentPos, size, difficulty);
     }
 
-    return board;
+    return data;
 };
 
 export default setInitBoard;

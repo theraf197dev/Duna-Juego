@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Game from '../game/Model';
 import { Toogle, Button } from '../styled-components';
 import {
@@ -55,6 +55,13 @@ const Menu = ({
     const [selected, setSelected] = useState(mode);
     const [difficultyLvl, setDifficultyLvl] = useState(difficulty);
     const [isGameAlive, setGame] = useState(false);
+    const [pizzas, setPizzas] = useState(1);
+
+    useEffect(() => {
+      if(pizzas <= 0){
+        setGame(false);
+      }
+    }, [pizzas]);
 
     return (
         <>
@@ -64,7 +71,9 @@ const Menu = ({
                     controls={controls}
                     difficulty={difficultyLvl}
                     mode={selected}
+                    pizzas={pizzas}
                     setGame={setGame}
+                    setPizzas={setPizzas}
                     size={size}
                 />
                 :

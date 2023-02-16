@@ -61,15 +61,20 @@ export default class Model extends Component {
     }
 
     setCurrentPos(vector, incr) {
+        const nextPos = {
+            ...this.state.currentPos,
+            [vector]: this.state.currentPos[vector] + incr,
+        };
+
         this.setState({
-            currentPos: {
-                ...this.state.currentPos,
-                [vector]: this.state.currentPos[vector] + incr,
-            },
+            currentPos: nextPos,
             matrix: this.state.matrix.map((col, x) =>
                 col.map((cell) => cell !== CellType.duna ? cell : CellType.blank)
             ),
         });
+        if(this.state.matrix[nextPos.x][nextPos.y] === CellType.pizza){
+            this.props.setPizzas(this.props.pizzas - 1);
+        }
     };
 
     setSeekerPos(vector, incr) {
@@ -102,12 +107,13 @@ export default class Model extends Component {
     };
 
     setInitialMatrix() {
-        const board = setInitBoard(this.props.size, this.props.mode, this.props.difficulty);
+        const { board, pizzas } = setInitBoard(this.props.size, this.props.mode, this.props.difficulty);
         this.setState({
             matrix: this.state.matrix.map((col, x) =>
                 col.map((cell, y) => board[x][y])
             )
         });
+        this.props.setPizzas(pizzas);
     };
 
     setLastInput(value) {
