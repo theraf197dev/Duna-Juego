@@ -22,14 +22,12 @@ const ContainerModalStyles = styled.div`
 
 const ModalTitleStyles = styled.div`
     color: #111827;
-    padding: 1.5em 2em;
     pointer-events: all;
     position: relative;
     text-align: center;
     width: calc(100% - 4.5em);
 
     h1 {
-        font-size: 1.25rem;
         font-weight: 600;
         line-height: normal;
     }

@@ -1,6 +1,6 @@
 import React, { Component }  from "react";
 import {
-    CellType,
+    CellType, GameStates,
 } from '../common/utils';
 import setInitBoard from "./helper";
 import Controller from "./Controller";
@@ -23,7 +23,7 @@ export default class Model extends Component {
                 vector: 'x',
                 incr: 1,
             },
-            gameStatus: 'playing',
+            gameStatus: GameStates.playing,
             coverSeekerValue: CellType.pizza,
             lastInput: {
                 vector: 'y',
@@ -95,7 +95,7 @@ export default class Model extends Component {
         });
 
         if(this.state.matrix[nextPos.x][nextPos.y] === CellType.seeker) {
-            this.endGame('defeat');
+            this.endGame(GameStates.defeat);
         }
     };
 
@@ -121,7 +121,7 @@ export default class Model extends Component {
         });
 
         if(this.state.matrix[nextSeekerPos.x][nextSeekerPos.y] === CellType.duna) {
-            this.endGame('defeat');
+            this.endGame(GameStates.defeat);
         }
     };
 

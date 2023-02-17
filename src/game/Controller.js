@@ -1,6 +1,6 @@
 import { Component } from "react";
 import {
-    CellType,
+    CellType, GameStates,
 } from '../common/utils';
 import View from './View.jsx';
 
@@ -14,12 +14,12 @@ export default class Controller extends Component {
             this.props.setMatrix(CellType.seeker, this.props.seekerCurrentPos);
         }
 
-        if(this.props.gameStatus !== 'playing' && this.props.mode === 'SEEKER') {
+        if(this.props.gameStatus !== GameStates.playing && this.props.mode === 'SEEKER') {
             this.props.stopInterval();
         }
 
         if(this.props.pizzas <= 0 && prevProps.pizzas !== this.props.pizzas) {
-            this.props.endGame('victory');
+            this.props.endGame(GameStates.victory);
         }
     }
 

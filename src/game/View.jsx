@@ -7,6 +7,7 @@ import {
 } from './View.styles.jsx';
 import {
     CellType,
+    GameStates,
     ImageCarousel,
 } from '../common/utils';
 import Controls from '../controls/Controller';
@@ -16,14 +17,19 @@ import Modal from '../styled-components/components/Modal.jsx';
 const EndModal = ({ gameStatus, restartGame }) => (
     <Modal
         buttonText='RETRY?'
-        handleSubmit={restartGame}
+        handleClick={restartGame}
         image={chooseImage(gameStatus)}
         title={gameStatus.toUpperCase()}
     />
 );
 
 const Row = ({ row, lastInput }) => {
-    return row.map((cell, index) => <CellStyles key={index}><ImageStyles src={ImageCarousel(cell)} lastInput={lastInput} player={cell === CellType.duna} /></CellStyles> );
+    return row.map((cell, index) => <CellStyles key={index}><ImageStyles
+        src={ImageCarousel(cell)}
+        lastInput={lastInput}
+        player={cell === CellType.duna}
+    />
+    </CellStyles>);
 };
 
 const Game = ({
@@ -41,7 +47,7 @@ const Game = ({
         <>
             {matrix ?
                 (<>
-                    {gameStatus !== 'playing' ?
+                    {gameStatus !== GameStates.playing ?
                         <EndModal gameStatus={gameStatus} restartGame={restartGame} />
                         : null
                     }
@@ -52,6 +58,7 @@ const Game = ({
                         <Controls
                             controls={controls}
                             currentPos={currentPos}
+                            gameStatus={gameStatus}
                             matrix={matrix}
                             setCurrentPos={setCurrentPos}
                             setLastInput={setLastInput}

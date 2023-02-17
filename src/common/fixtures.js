@@ -43,7 +43,7 @@ const games = {
 
 const difficulty = 1;
 const mode = 'TRIAL';
-const size = 11;
+const size = 9;
 
 export {
     controls,

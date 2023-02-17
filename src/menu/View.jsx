@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Game from '../game/Model';
 import { Toogle, Button } from '../styled-components';
 import {
@@ -18,7 +18,7 @@ const MenuView = ({
     setSelected,
 }) => {
     return (
-        <form onSubmit={() => setGame(true)}>
+        <div>
             <ContainerStyles>
                 {games.items.map(({name, url}) =>
                     <div key={name}>
@@ -41,13 +41,12 @@ const MenuView = ({
                     id='difficulty'
                 />
             </ToggleStyles>
-            <Button buttonText='Play' />
-        </form>
+            <Button buttonText='PLAY' handleClick={() => setGame(true)} />
+        </div>
     );
 };
 
 const Menu = ({
-    board,
     controls,
     difficulty,
     games,
@@ -62,7 +61,6 @@ const Menu = ({
         <>
             {isGameAlive ?
                 <Game
-                    board={board}
                     controls={controls}
                     difficulty={difficultyLvl}
                     mode={selected}
