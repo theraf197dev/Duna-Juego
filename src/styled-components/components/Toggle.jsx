@@ -12,8 +12,9 @@ import {
 const Toogle = ({
     handleChange,
     id,
+    value,
 }) => {
-    const [isChecked, setIsChecked] = useState(false);
+    const [isChecked, setIsChecked] = useState(value);
 
     return (
         <ContainerToogleStyles>

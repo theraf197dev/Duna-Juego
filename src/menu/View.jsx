@@ -10,6 +10,7 @@ import {
 } from './View.styles.jsx';
 
 const MenuView = ({
+    difficultyLvl,
     games,
     setGame,
     selected,
@@ -35,6 +36,7 @@ const MenuView = ({
             <ToggleStyles>
                 <label>Difficulty</label>
                 <Toogle
+                    value={difficultyLvl - 1}
                     handleChange={(isChecked) => setDifficultyLvl(isChecked + 1)}
                     id='difficulty'
                 />
@@ -69,6 +71,7 @@ const Menu = ({
                 />
                 :
                 <MenuView
+                    difficultyLvl={difficultyLvl}
                     games={games}
                     selected={selected}
                     setDifficultyLvl={setDifficultyLvl}

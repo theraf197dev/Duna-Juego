@@ -25,6 +25,7 @@ const ModalTitleStyles = styled.div`
     padding: 1.5em 2em;
     pointer-events: all;
     position: relative;
+    text-align: center;
     width: calc(100% - 4.5em);
 
     h1 {
