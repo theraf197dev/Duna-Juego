@@ -14,8 +14,12 @@ export default class Controller extends Component {
             this.props.setMatrix(CellType.seeker, this.props.seekerCurrentPos);
         }
 
-        if(prevProps.isGameAlive !== this.props.isGameAlive && this.props.mode === 'SEEKER') {
+        if(this.props.gameStatus !== 'playing' && this.props.mode === 'SEEKER') {
             this.props.stopInterval();
+        }
+
+        if(this.props.pizzas <= 0 && prevProps.pizzas !== this.props.pizzas) {
+            this.props.endGame('victory');
         }
     }
 

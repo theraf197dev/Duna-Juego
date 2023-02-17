@@ -11,7 +11,7 @@ const Button = ({
 }) => {
   return (
     <ContainerButtonStyles>
-        <ButtonStyles onSubmit={handleSubmit}>
+        <ButtonStyles onClick={handleSubmit}>
             {buttonText}
             <SpanStyles id={1} />
             <SpanStyles id={2} />

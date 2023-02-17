@@ -55,13 +55,6 @@ const Menu = ({
     const [selected, setSelected] = useState(mode);
     const [difficultyLvl, setDifficultyLvl] = useState(difficulty);
     const [isGameAlive, setGame] = useState(false);
-    const [pizzas, setPizzas] = useState(1);
-
-    useEffect(() => {
-      if(pizzas <= 0){
-        setGame(false);
-      }
-    }, [pizzas]);
 
     return (
         <>
@@ -71,9 +64,7 @@ const Menu = ({
                     controls={controls}
                     difficulty={difficultyLvl}
                     mode={selected}
-                    pizzas={pizzas}
-                    setGame={setGame}
-                    setPizzas={setPizzas}
+                    restartGame={() => setGame(false)}
                     size={size}
                 />
                 :

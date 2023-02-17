@@ -23,13 +23,13 @@ export default class Model extends Component {
                 vector: 'x',
                 incr: 1,
             },
+            gameStatus: 'playing',
             coverSeekerValue: CellType.pizza,
-            timer: 0,
-            isGameAlive: true,
             lastInput: {
                 vector: 'y',
                 incr: 1,
             },
+            pizzas: 1,
         };
         this.bindActions();
     };
@@ -67,9 +67,17 @@ export default class Model extends Component {
         clearInterval(this.interval);
     }
 
-    endGame() {
-        this.props.setGame(false);
-    }
+    setPizzas(pizzas) {
+        this.setState({
+            pizzas: pizzas,
+        });
+    };
+
+    endGame(status) {
+        this.setState({
+            gameStatus: status,
+        });
+    };
 
     setCurrentPos(vector, incr) {
         const nextPos = {
@@ -77,19 +85,17 @@ export default class Model extends Component {
             [vector]: this.state.currentPos[vector] + incr,
         };
 
-        if(this.state.matrix[nextPos.x][nextPos.y] === CellType.seeker) {
-            this.props.setGame(false);
-        } else {
-            this.setState({
-                currentPos: nextPos,
-                matrix: this.state.matrix.map((col, x) =>
-                    col.map((cell) => cell !== CellType.duna ? cell : CellType.blank)
-                ),
-            });
+        this.setState({
+            currentPos: nextPos,
+            matrix: this.state.matrix.map((col, x) =>
+                col.map((cell) => cell !== CellType.duna ? cell : CellType.blank)
+            ),
+            pizzas: this.state.matrix[nextPos.x][nextPos.y] === CellType.pizza ?
+                this.state.pizzas - 1 : this.state.pizzas,
+        });
 
-            if(this.state.matrix[nextPos.x][nextPos.y] === CellType.pizza){
-                this.props.setPizzas(this.props.pizzas - 1);
-            }
+        if(this.state.matrix[nextPos.x][nextPos.y] === CellType.seeker) {
+            this.endGame('defeat');
         }
     };
 
@@ -99,24 +105,23 @@ export default class Model extends Component {
             [vector]: this.state.seekerCurrentPos[vector] + incr,
         };
 
+        this.setState({
+            seekerCurrentPos: {
+                ...this.state.seekerCurrentPos,
+                [vector]: this.state.seekerCurrentPos[vector] + incr,
+            },
+            seekerLastMovement: {
+                incr,
+                vector,
+            },
+            matrix: this.state.matrix.map((col, x) =>
+                col.map((cell) => cell !== CellType.seeker ? cell : this.state.coverSeekerValue)
+            ),
+            coverSeekerValue: this.state.matrix[nextSeekerPos.x][nextSeekerPos.y],
+        });
+
         if(this.state.matrix[nextSeekerPos.x][nextSeekerPos.y] === CellType.duna) {
-            this.props.setGame(false);
-        }
-        else {
-            this.setState({
-                seekerCurrentPos: {
-                    ...this.state.seekerCurrentPos,
-                    [vector]: this.state.seekerCurrentPos[vector] + incr,
-                },
-                seekerLastMovement: {
-                    incr,
-                    vector,
-                },
-                matrix: this.state.matrix.map((col, x) =>
-                    col.map((cell) => cell !== CellType.seeker ? cell : this.state.coverSeekerValue)
-                ),
-                coverSeekerValue: this.state.matrix[nextSeekerPos.x][nextSeekerPos.y],
-            });
+            this.endGame('defeat');
         }
     };
 
@@ -136,9 +141,9 @@ export default class Model extends Component {
         this.setState({
             matrix: this.state.matrix.map((col, x) =>
                 col.map((cell, y) => board[x][y])
-            )
+            ),
+            pizzas: pizzas,
         });
-        this.props.setPizzas(pizzas);
     };
 
     setLastInput(value) {
