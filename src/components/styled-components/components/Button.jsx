@@ -15,6 +15,6 @@ const Button = ({
         </ButtonStyles>
     </ContainerButtonStyles>
   )
-}
+};
 
-export default Button
+export default Button;

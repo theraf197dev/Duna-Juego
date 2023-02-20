@@ -17,7 +17,7 @@ const GameMode = {
     trial: 'TRIAL',
 };
 
-const GameStates = {
+const GameStatus = {
     defeat: 'defeat',
     playing: 'playing',
     victory: 'victory',
@@ -67,6 +67,6 @@ export {
     canMove,
     CellType,
     GameMode,
-    GameStates,
+    GameStatus,
     ImageCarousel,
 };

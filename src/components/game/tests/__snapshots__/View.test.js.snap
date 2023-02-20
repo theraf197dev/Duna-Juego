@@ -1,0 +1,728 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View tests render component 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe gkqtbX"
+  >
+    <div
+      class="sc-ksBlkl jmQgxj"
+    >
+      00 : 30
+    </div>
+    <div
+      class="sc-gswNZR cDelEv"
+    >
+      <div
+        class="sc-dkrFOg hUHXsd"
+      >
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe dHqsvC"
+              src="duna.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+      </div>
+      <div
+        class="sc-jSUZER gOoPkq"
+      >
+        <button
+          class="sc-gKPRtg hmnFoD"
+        >
+          <div
+            class="sc-iBYQkv jMtJtr"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg cILazt"
+        >
+          <div
+            class="sc-iBYQkv icdsrj"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hXaRCV"
+        >
+          <div
+            class="sc-iBYQkv RaszP"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hoHrNM"
+        >
+          <div
+            class="sc-iBYQkv ALwnz"
+          />
+        </button>
+        <div
+          class="sc-pyfCe droXxt"
+        >
+          <div
+            class="sc-ftTHYK eFTIwb"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

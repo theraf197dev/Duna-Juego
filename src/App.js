@@ -1,12 +1,5 @@
 import './App.css';
-import {
-  controls,
-  difficulty,
-  games,
-  mode,
-  size,
-  time,
-} from './common/fixtures';
+import fixtures from './common/fixtures';
 import Menu from './pages/menu/View.jsx';
 
 function App() {
@@ -17,12 +10,7 @@ function App() {
           <h2>Atrapa la pizzita</h2>
       </span>
       <Menu
-        controls={controls}
-        difficulty={difficulty}
-        games={games}
-        mode={mode}
-        size={size}
-        time={time}
+        {...fixtures}
       />
     </>
   );

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button tests render component 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe dQMZft"
+  >
+    <button
+      class="sc-gswNZR kWxGrk"
+    >
+      testButton
+    </button>
+  </div>
+</div>
+`;

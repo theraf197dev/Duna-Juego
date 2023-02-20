@@ -6,7 +6,7 @@ import {
   CrossStyles,
   FigureStyles,
 } from './View.styles.jsx';
-import { canMove, GameStates } from '../../common/utils.js';
+import { canMove, GameStatus } from '../../common/utils.js';
 
 const View = ({
     controls,
@@ -23,7 +23,7 @@ const View = ({
           control={control}
           disabled={
             !canMove(matrix, currentPos, control.vector, control.incr, size)
-            || gameStatus !== GameStates.playing
+            || gameStatus !== GameStatus.playing
           }
           key={control.id}
           onClick={() => handleChangePosition(control.vector, control.incr)}

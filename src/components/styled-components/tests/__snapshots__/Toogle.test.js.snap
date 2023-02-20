@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toogle tests render component 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe hEUNKZ"
+  >
+    <input
+      class="sc-gswNZR gNWEtq"
+      id="testId"
+      type="checkbox"
+    />
+    <label
+      class="sc-dkrFOg hBVbHy"
+      for="testId"
+    >
+      <div
+        class="sc-hLBbgP kxibuV"
+      >
+        <div
+          class="sc-eDvSVe rLpUP"
+        >
+          ★
+        </div>
+        <div
+          class="sc-jSUZER hDTQsy"
+        >
+          ★
+        </div>
+      </div>
+      <div
+        class="sc-gKPRtg cFVFRL"
+      />
+    </label>
+  </div>
+</div>
+`;

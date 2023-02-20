@@ -9,7 +9,7 @@ import {
 import {
     CellType,
     GameMode,
-    GameStates,
+    GameStatus,
     ImageCarousel,
 } from '../../common/utils';
 import Controls from '../controls/Controller';
@@ -53,13 +53,13 @@ const Game = ({
         <>
             {matrix ?
                 (<WrapperGameStyles>
-                    {gameStatus !== GameStates.playing &&
+                    {gameStatus !== GameStatus.playing &&
                         <EndModal gameStatus={gameStatus} restartGame={restartGame} />
                     }
 
                     {mode === GameMode.trial && <Timer
-                            stopTimer={gameStatus !== GameStates.playing}
-                            handleEndOfTimer={() => endGame(GameStates.defeat)}
+                            stopTimer={gameStatus !== GameStatus.playing}
+                            handleEndOfTimer={() => endGame(GameStatus.defeat)}
                             time={time}
                         />
                     }

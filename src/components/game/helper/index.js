@@ -1,4 +1,4 @@
-import { 
+import {
     CellType,
     GameMode,
 } from '../../../common/utils';
@@ -113,4 +113,9 @@ const setInitBoard = (size, mode, difficulty) => {
     return data;
 };
 
-export default setInitBoard;
+export {
+    setInitBoard,
+    setBoard,
+    setThing,
+    createFreeBoardPositions,
+};

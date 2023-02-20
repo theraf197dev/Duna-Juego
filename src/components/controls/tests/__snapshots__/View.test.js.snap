@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View tests render component 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe gzQsTO"
+  >
+    <button
+      class="sc-gswNZR fieUDz"
+    >
+      <div
+        class="sc-dkrFOg eOGSWW"
+      />
+    </button>
+    <button
+      class="sc-gswNZR kEmwOF"
+    >
+      <div
+        class="sc-dkrFOg iMLtWa"
+      />
+    </button>
+    <button
+      class="sc-gswNZR hAYefZ"
+    >
+      <div
+        class="sc-dkrFOg etZoki"
+      />
+    </button>
+    <button
+      class="sc-gswNZR gCaqCQ"
+    >
+      <div
+        class="sc-dkrFOg kjDmxe"
+      />
+    </button>
+    <div
+      class="sc-eDvSVe dTHyfn"
+    >
+      <div
+        class="sc-hLBbgP gNphbY"
+      />
+    </div>
+  </div>
+</div>
+`;

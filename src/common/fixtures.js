@@ -1,6 +1,6 @@
 import trialImage from './media/trial_mode.jpg';
 import seekerImage from './media/seeker_mode.jpg';
-import { GameMode } from './utils';
+import { CellType, GameMode } from './utils';
 
 const controls = [
     {
@@ -42,16 +42,31 @@ const games = {
     ],
 };
 
+const matrix = [
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.duna, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+    [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
+];
+
 const difficulty = 1;
 const mode = GameMode.trial;
 const size = 9;
 const time = 30;
 
-export {
+const fixtures =  {
     controls,
     difficulty,
     games,
+    matrix,
     mode,
     size,
     time,
 };
+
+export default fixtures;

@@ -2,9 +2,9 @@ import React, { Component }  from "react";
 import {
     CellType,
     GameMode,
-    GameStates,
+    GameStatus,
 } from '../../common/utils';
-import setInitBoard from "./helper";
+import {setInitBoard} from "./helper";
 import Controller from "./Controller";
 import seekerMove from "./helper/seeker";
 
@@ -25,7 +25,7 @@ export default class Model extends Component {
                 vector: 'x',
                 incr: 1,
             },
-            gameStatus: GameStates.playing,
+            gameStatus: GameStatus.playing,
             coverSeekerValue: CellType.pizza,
             lastInput: {
                 vector: 'y',
@@ -97,7 +97,7 @@ export default class Model extends Component {
         });
 
         if(this.state.matrix[nextPos.x][nextPos.y] === CellType.seeker) {
-            this.endGame(GameStates.defeat);
+            this.endGame(GameStatus.defeat);
         }
     };
 
@@ -123,7 +123,7 @@ export default class Model extends Component {
         });
 
         if(this.state.matrix[nextSeekerPos.x][nextSeekerPos.y] === CellType.duna) {
-            this.endGame(GameStates.defeat);
+            this.endGame(GameStatus.defeat);
         }
     };
 
