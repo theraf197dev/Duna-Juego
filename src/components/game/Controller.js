@@ -29,6 +29,7 @@ export default class Controller extends Component {
         return (
             <View
                 {...this.props}
+                endGame={this.props.endGame}
                 setCurrentPos={this.props.setCurrentPos}
             />
         )

@@ -4,15 +4,18 @@ import {
     ContainerStyles,
     ImageStyles,
     TableStyles,
+    WrapperGameStyles,
 } from './View.styles.jsx';
 import {
     CellType,
+    GameMode,
     GameStates,
     ImageCarousel,
 } from '../../common/utils';
 import Controls from '../controls/Controller';
 import { chooseImage } from './helper/props.js';
 import Modal from '../styled-components/components/Modal.jsx';
+import Timer from '../timer/View.jsx';
 
 const EndModal = ({ gameStatus, restartGame }) => (
     <Modal
@@ -35,21 +38,30 @@ const Row = ({ row, lastInput }) => {
 const Game = ({
     controls,
     currentPos,
+    endGame,
     gameStatus,
     restartGame,
     lastInput,
     matrix,
+    mode,
     setCurrentPos,
     setLastInput,
     size,
+    time,
 }) => {
     return (
         <>
             {matrix ?
-                (<>
-                    {gameStatus !== GameStates.playing ?
+                (<WrapperGameStyles>
+                    {gameStatus !== GameStates.playing &&
                         <EndModal gameStatus={gameStatus} restartGame={restartGame} />
-                        : null
+                    }
+
+                    {mode === GameMode.trial && <Timer
+                            stopTimer={gameStatus !== GameStates.playing}
+                            handleEndOfTimer={() => endGame(GameStates.defeat)}
+                            time={time}
+                        />
                     }
                     <ContainerStyles>
                         <TableStyles>
@@ -65,7 +77,7 @@ const Game = ({
                             size={size}
                         />
                     </ContainerStyles>
-                </>) :
+                </WrapperGameStyles>) :
                 null
             }
         </>

@@ -52,6 +52,7 @@ const Menu = ({
     games,
     mode,
     size,
+    time,
 }) => {
     const [selected, setSelected] = useState(mode);
     const [difficultyLvl, setDifficultyLvl] = useState(difficulty);
@@ -66,6 +67,7 @@ const Menu = ({
                     mode={selected}
                     restartGame={() => setGame(false)}
                     size={size}
+                    time={time}
                 />
                 :
                 <MenuView

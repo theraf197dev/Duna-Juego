@@ -5,6 +5,7 @@ import {
   games,
   mode,
   size,
+  time,
 } from './common/fixtures';
 import Menu from './pages/menu/View.jsx';
 
@@ -21,6 +22,7 @@ function App() {
         games={games}
         mode={mode}
         size={size}
+        time={time}
       />
     </>
   );

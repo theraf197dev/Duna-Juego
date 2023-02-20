@@ -45,6 +45,7 @@ const games = {
 const difficulty = 1;
 const mode = GameMode.trial;
 const size = 9;
+const time = 30;
 
 export {
     controls,
@@ -52,4 +53,5 @@ export {
     games,
     mode,
     size,
+    time,
 };

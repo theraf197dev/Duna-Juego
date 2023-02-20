@@ -1,6 +1,6 @@
 import { 
     CellType,
-    GameMode
+    GameMode,
 } from '../../../common/utils';
 
 const setBoard = (board, value, x, y) => {
@@ -66,7 +66,7 @@ const seekerMode = (currentPos, size, difficulty) => {
 };
 
 const trialMode = (currentPos, size, difficulty) => {
-    const pizzas = (size + size) / 2;
+    const pizzas = ((size * size) / 2) + size;
     const obstacles = size - 1;
 
     let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.blank));

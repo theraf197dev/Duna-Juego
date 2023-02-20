@@ -1,5 +1,11 @@
 import styled, { css } from "styled-components";
 
+const WrapperGameStyles = styled.div`
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+`;
+
 const ContainerStyles = styled.div`
     align-items: center;
     display: flex;
@@ -43,4 +49,5 @@ export {
     ContainerStyles,
     ImageStyles,
     TableStyles,
+    WrapperGameStyles,
 };

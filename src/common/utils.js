@@ -26,19 +26,19 @@ const GameStates = {
 const ImageCarousel = (name) => {
     let image;
     switch (name) {
-        case 'duna':
+        case CellType.duna:
             image = dunaImage;
             break;
-        case 'pizza':
+        case CellType.pizza:
             image = pizzaImage;
             break;
-        case 'blank':
+        case CellType.blank:
             image = blankImage;
             break;
-        case 'obstacle':
+        case CellType.obstacle:
             image = obstacleImage;
             break;
-        case 'seeker':
+        case CellType.seeker:
             image = seekerImage;
             break;
         default:
