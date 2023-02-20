@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Game from '../game/Model';
-import { Toogle, Button } from '../styled-components';
+import Game from '../../components/game/Model';
+import { Toogle, Button } from '../../components/styled-components';
 import {
     ContainerStyles,
     GameStyles,

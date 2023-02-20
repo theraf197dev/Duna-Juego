@@ -1,8 +1,8 @@
-import dunaImage from '../media/duna.jpg';
-import pizzaImage from '../media/pizza.png';
-import blankImage from '../media/blank.png';
-import obstacleImage from '../media/obstacle.jpg';
-import seekerImage from '../media/seeker.jpg';
+import dunaImage from './media/duna.jpg';
+import pizzaImage from './media/pizza.png';
+import blankImage from './media/blank.png';
+import obstacleImage from './media/obstacle.jpg';
+import seekerImage from './media/seeker.jpg';
 
 const CellType = {
     blank: 'blank',

@@ -1,4 +1,4 @@
-import { canMove } from "../../common/utils";
+import { canMove } from "../../../common/utils";
 
 const chooseMove = (filteredMoves) => {
     const random = Math.floor(Math.random() * 101);

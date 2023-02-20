@@ -1,7 +1,7 @@
 import { Component } from "react";
 import {
     CellType, GameStates,
-} from '../common/utils';
+} from '../../common/utils';
 import View from './View.jsx';
 
 export default class Controller extends Component {

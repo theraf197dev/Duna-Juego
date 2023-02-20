@@ -1,4 +1,4 @@
-import { CellType } from "../../common/utils";
+import { CellType } from '../../../common/utils';
 
 const setBoard = (board, value, x, y) => {
     board[x][y] = value;

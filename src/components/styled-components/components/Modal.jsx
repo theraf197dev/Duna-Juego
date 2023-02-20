@@ -9,7 +9,7 @@ import Button from './Button.jsx';
 
 const Modal = ({
     buttonText,
-    handleSubmit,
+    handleClick,
     image,
     title,
 }) => {
@@ -20,7 +20,7 @@ const Modal = ({
         </ModalTitleStyles>
         <ModalContentStyles>
             <ImageStyles src={image} alt='' />
-            <Button buttonText={buttonText} handleSubmit={handleSubmit} />
+            <Button buttonText={buttonText} handleClick={handleClick} />
         </ModalContentStyles>
     </ContainerModalStyles>
   );

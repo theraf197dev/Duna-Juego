@@ -1,6 +1,6 @@
 import { Component } from "react";
 import View from './View.jsx';
-import { canMove } from "../common/utils.js";
+import { canMove } from "../../common/utils.js";
 
 export default class Controller extends Component {
     constructor(props) {

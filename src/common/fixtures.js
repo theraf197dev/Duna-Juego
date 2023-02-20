@@ -1,5 +1,5 @@
-import trialImage from '../media/trial_mode.jpg';
-import seekerImage from '../media/seeker_mode.jpg';
+import trialImage from './media/trial_mode.jpg';
+import seekerImage from './media/seeker_mode.jpg';
 
 const controls = [
     {

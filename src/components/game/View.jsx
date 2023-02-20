@@ -9,7 +9,7 @@ import {
     CellType,
     GameStates,
     ImageCarousel,
-} from '../common/utils';
+} from '../../common/utils';
 import Controls from '../controls/Controller';
 import { chooseImage } from './helper/props.js';
 import Modal from '../styled-components/components/Modal.jsx';

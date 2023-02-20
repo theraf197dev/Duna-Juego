@@ -6,7 +6,7 @@ import {
   CrossStyles,
   FigureStyles,
 } from './View.styles.jsx';
-import { canMove, GameStates } from '../common/utils.js';
+import { canMove, GameStates } from '../../common/utils.js';
 
 const View = ({
     controls,

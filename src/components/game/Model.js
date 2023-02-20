@@ -1,7 +1,7 @@
 import React, { Component }  from "react";
 import {
     CellType, GameStates,
-} from '../common/utils';
+} from '../../common/utils';
 import setInitBoard from "./helper";
 import Controller from "./Controller";
 import seekerMove from "./helper/seeker";
