@@ -1,4 +1,7 @@
-import { CellType } from '../../../common/utils';
+import { 
+    CellType,
+    GameMode
+} from '../../../common/utils';
 
 const setBoard = (board, value, x, y) => {
     board[x][y] = value;
@@ -97,10 +100,10 @@ const setInitBoard = (size, mode, difficulty) => {
     };
 
     switch (mode) {
-        case 'TRIAL':
+        case GameMode.trial:
             data = trialMode(currentPos, size, difficulty);
             break;
-        case 'SEEKER':
+        case GameMode.seeker:
             data = seekerMode(currentPos, size, difficulty);
             break;
         default:

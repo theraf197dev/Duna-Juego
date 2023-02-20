@@ -1,6 +1,8 @@
 import { Component } from "react";
 import {
-    CellType, GameStates,
+    CellType,
+    GameMode,
+    GameStates,
 } from '../../common/utils';
 import View from './View.jsx';
 
@@ -14,7 +16,7 @@ export default class Controller extends Component {
             this.props.setMatrix(CellType.seeker, this.props.seekerCurrentPos);
         }
 
-        if(this.props.gameStatus !== GameStates.playing && this.props.mode === 'SEEKER') {
+        if(this.props.gameStatus !== GameStates.playing && this.props.mode === GameMode.seeker) {
             this.props.stopInterval();
         }
 

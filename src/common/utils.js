@@ -12,6 +12,11 @@ const CellType = {
     seeker: 'seeker',
 };
 
+const GameMode = {
+    seeker: 'SEEKER',
+    trial: 'TRIAL',
+};
+
 const GameStates = {
     defeat: 'defeat',
     playing: 'playing',
@@ -61,6 +66,7 @@ const isOutOfBounds = (currentPos, vector, incr, size) => {
 export {
     canMove,
     CellType,
+    GameMode,
     GameStates,
     ImageCarousel,
 };

@@ -1,6 +1,8 @@
 import React, { Component }  from "react";
 import {
-    CellType, GameStates,
+    CellType,
+    GameMode,
+    GameStates,
 } from '../../common/utils';
 import setInitBoard from "./helper";
 import Controller from "./Controller";
@@ -44,7 +46,7 @@ export default class Model extends Component {
 
     componentDidMount() {
         this.setInitialMatrix();
-        if(this.props.mode === 'SEEKER'){
+        if(this.props.mode === GameMode.seeker){
             this.interval = setInterval(() => {
                 const {vector, incr} = seekerMove(
                     this.state.seekerLastMovement,
@@ -58,7 +60,7 @@ export default class Model extends Component {
     }
 
     componentWillUnmount() {
-        if(this.props.mode === 'SEEKER'){
+        if(this.props.mode === GameMode.seeker){
             this.stopInterval();
         }
     }
