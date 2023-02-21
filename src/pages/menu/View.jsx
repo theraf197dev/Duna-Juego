@@ -18,10 +18,10 @@ const MenuView = ({
     setSelected,
 }) => {
     return (
-        <div>
+        <>
             <ContainerStyles>
                 {games.items.map(({name, url}) =>
-                    <div key={name}>
+                    <div key={name} data-testid='fn-game-item'>
                         <h2>{name}</h2>
                         <GameStyles>
                             <ImageStyles src={url} onClick={() => setSelected(name)} />
@@ -42,7 +42,7 @@ const MenuView = ({
                 />
             </ToggleStyles>
             <Button buttonText='PLAY' handleClick={() => setGame(true)} />
-        </div>
+        </>
     );
 };
 

@@ -5,25 +5,25 @@ import { CellType, GameMode } from './utils';
 const controls = [
     {
         id: 1,
-        name: 'Up',
+        name: 'up',
         vector: 'x',
         incr: -1,
     },
     {
         id: 2,
-        name: 'Down',
+        name: 'down',
         vector: 'x',
         incr: 1,
     },
     {
         id: 3,
-        name: 'Left',
+        name: 'left',
         vector: 'y',
         incr: -1,
     },
     {
         id: 4,
-        name: 'Right',
+        name: 'right',
         vector: 'y',
         incr: 1,
     },

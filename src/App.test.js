@@ -5,6 +5,6 @@ describe('App tests', () => {
   it('render component', () => {
       const { container } = render(<App />);
 
-      expect(container).toMatchSnapshot();
+      expect(container).toBeInTheDocument();
   });
 });

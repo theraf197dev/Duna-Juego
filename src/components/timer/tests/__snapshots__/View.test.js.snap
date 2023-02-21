@@ -5,7 +5,7 @@ exports[`View tests render component 1`] = `
   <div
     class="sc-bcXHqe cGeFCO"
   >
-    00 : 01
+    00 : 03
   </div>
 </div>
 `;

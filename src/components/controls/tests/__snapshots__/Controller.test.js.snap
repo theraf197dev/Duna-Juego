@@ -1,12 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Controller tests render component 1`] = `
+exports[`Controller tests handleBark function has been called when center button is clicked 1`] = `
 <div>
   <div
     class="sc-bcXHqe gzQsTO"
   >
     <button
       class="sc-gswNZR fieUDz"
+      data-testid="fn-controls-button-up"
     >
       <div
         class="sc-dkrFOg eOGSWW"
@@ -14,6 +15,7 @@ exports[`Controller tests render component 1`] = `
     </button>
     <button
       class="sc-gswNZR kEmwOF"
+      data-testid="fn-controls-button-down"
     >
       <div
         class="sc-dkrFOg iMLtWa"
@@ -21,6 +23,7 @@ exports[`Controller tests render component 1`] = `
     </button>
     <button
       class="sc-gswNZR hAYefZ"
+      data-testid="fn-controls-button-left"
     >
       <div
         class="sc-dkrFOg etZoki"
@@ -28,6 +31,7 @@ exports[`Controller tests render component 1`] = `
     </button>
     <button
       class="sc-gswNZR gCaqCQ"
+      data-testid="fn-controls-button-right"
     >
       <div
         class="sc-dkrFOg kjDmxe"
@@ -38,6 +42,56 @@ exports[`Controller tests render component 1`] = `
     >
       <div
         class="sc-hLBbgP gNphbY"
+        data-testid="fn-controls-bark"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Controller tests render component 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe gzQsTO"
+  >
+    <button
+      class="sc-gswNZR fieUDz"
+      data-testid="fn-controls-button-up"
+    >
+      <div
+        class="sc-dkrFOg eOGSWW"
+      />
+    </button>
+    <button
+      class="sc-gswNZR kEmwOF"
+      data-testid="fn-controls-button-down"
+    >
+      <div
+        class="sc-dkrFOg iMLtWa"
+      />
+    </button>
+    <button
+      class="sc-gswNZR hAYefZ"
+      data-testid="fn-controls-button-left"
+    >
+      <div
+        class="sc-dkrFOg etZoki"
+      />
+    </button>
+    <button
+      class="sc-gswNZR gCaqCQ"
+      data-testid="fn-controls-button-right"
+    >
+      <div
+        class="sc-dkrFOg kjDmxe"
+      />
+    </button>
+    <div
+      class="sc-eDvSVe dTHyfn"
+    >
+      <div
+        class="sc-hLBbgP gNphbY"
+        data-testid="fn-controls-bark"
       />
     </div>
   </div>

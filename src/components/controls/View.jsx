@@ -12,6 +12,7 @@ const View = ({
     controls,
     currentPos,
     gameStatus,
+    handleBark,
     handleChangePosition,
     matrix,
     size,
@@ -21,6 +22,7 @@ const View = ({
       {controls.map((control) =>
         <ButtonStyles
           control={control}
+          data-testid={`fn-controls-button-${control.name}`}
           disabled={
             !canMove(matrix, currentPos, control.vector, control.incr, size)
             || gameStatus !== GameStatus.playing
@@ -32,7 +34,7 @@ const View = ({
         </ButtonStyles>
       )}
       <CrossStyles>
-        <CircleStyles onClick={() => console.log('bark')} />
+        <CircleStyles data-testid={'fn-controls-bark'} onClick={handleBark} />
       </CrossStyles>
     </ContainerStyles>
   )

@@ -22,6 +22,120 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
               src="blank.png"
             />
           </td>
@@ -49,12 +163,46 @@ exports[`Model tests render component 1`] = `
               src="pizza.png"
             />
           </td>
+        </tr>
+        <tr>
           <td
             class="sc-hLBbgP hIhZhQ"
           >
             <img
               class="sc-eDvSVe epBgfN"
               src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
             />
           </td>
           <td
@@ -136,35 +284,9 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="pizza.png"
+              src="blank.png"
             />
           </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
           <td
             class="sc-hLBbgP hIhZhQ"
           >
@@ -187,54 +309,6 @@ exports[`Model tests render component 1`] = `
             <img
               class="sc-eDvSVe epBgfN"
               src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
             />
           </td>
         </tr>
@@ -253,80 +327,6 @@ exports[`Model tests render component 1`] = `
             <img
               class="sc-eDvSVe epBgfN"
               src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
             />
           </td>
           <td
@@ -366,229 +366,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
               src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
             />
           </td>
           <td
@@ -630,6 +408,14 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
               src="blank.png"
             />
           </td>
@@ -647,6 +433,220 @@ exports[`Model tests render component 1`] = `
             <img
               class="sc-eDvSVe epBgfN"
               src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
             />
           </td>
           <td
@@ -688,6 +688,7 @@ exports[`Model tests render component 1`] = `
       >
         <button
           class="sc-gKPRtg hmnFoD"
+          data-testid="fn-controls-button-up"
         >
           <div
             class="sc-iBYQkv jMtJtr"
@@ -695,6 +696,7 @@ exports[`Model tests render component 1`] = `
         </button>
         <button
           class="sc-gKPRtg cILazt"
+          data-testid="fn-controls-button-down"
         >
           <div
             class="sc-iBYQkv icdsrj"
@@ -702,6 +704,7 @@ exports[`Model tests render component 1`] = `
         </button>
         <button
           class="sc-gKPRtg hXaRCV"
+          data-testid="fn-controls-button-left"
         >
           <div
             class="sc-iBYQkv RaszP"
@@ -709,6 +712,7 @@ exports[`Model tests render component 1`] = `
         </button>
         <button
           class="sc-gKPRtg hoHrNM"
+          data-testid="fn-controls-button-right"
         >
           <div
             class="sc-iBYQkv ALwnz"
@@ -719,6 +723,7 @@ exports[`Model tests render component 1`] = `
         >
           <div
             class="sc-ftTHYK eFTIwb"
+            data-testid="fn-controls-bark"
           />
         </div>
       </div>

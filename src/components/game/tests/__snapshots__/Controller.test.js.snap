@@ -688,6 +688,7 @@ exports[`Controller tests render component 1`] = `
       >
         <button
           class="sc-gKPRtg hmnFoD"
+          data-testid="fn-controls-button-up"
         >
           <div
             class="sc-iBYQkv jMtJtr"
@@ -695,6 +696,7 @@ exports[`Controller tests render component 1`] = `
         </button>
         <button
           class="sc-gKPRtg cILazt"
+          data-testid="fn-controls-button-down"
         >
           <div
             class="sc-iBYQkv icdsrj"
@@ -702,6 +704,7 @@ exports[`Controller tests render component 1`] = `
         </button>
         <button
           class="sc-gKPRtg hXaRCV"
+          data-testid="fn-controls-button-left"
         >
           <div
             class="sc-iBYQkv RaszP"
@@ -709,6 +712,7 @@ exports[`Controller tests render component 1`] = `
         </button>
         <button
           class="sc-gKPRtg hoHrNM"
+          data-testid="fn-controls-button-right"
         >
           <div
             class="sc-iBYQkv ALwnz"
@@ -719,6 +723,7 @@ exports[`Controller tests render component 1`] = `
         >
           <div
             class="sc-ftTHYK eFTIwb"
+            data-testid="fn-controls-bark"
           />
         </div>
       </div>

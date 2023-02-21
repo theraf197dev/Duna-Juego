@@ -19,6 +19,7 @@ const Toogle = ({
     return (
         <ContainerToogleStyles>
             <ToogleStyles
+                data-testid='fn-toogle-button'
                 id={id}
                 type="checkbox"
                 isChecked={isChecked}
