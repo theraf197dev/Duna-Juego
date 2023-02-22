@@ -1,15 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Model tests render component 1`] = `
+exports[`Model tests render component [SEEKER] 1`] = `
 <div>
   <div
     class="sc-bcXHqe gkqtbX"
   >
-    <div
-      class="sc-ksBlkl jmQgxj"
-    >
-      00 : 30
-    </div>
     <div
       class="sc-gswNZR cDelEv"
     >
@@ -22,121 +17,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="seeker.jpg"
             />
           </td>
           <td
@@ -163,46 +44,12 @@ exports[`Model tests render component 1`] = `
               src="pizza.png"
             />
           </td>
-        </tr>
-        <tr>
           <td
             class="sc-hLBbgP hIhZhQ"
           >
             <img
               class="sc-eDvSVe epBgfN"
               src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
             />
           </td>
           <td
@@ -244,7 +91,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="pizza.png"
             />
           </td>
           <td
@@ -252,7 +99,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="obstacle.jpg"
             />
           </td>
           <td
@@ -268,7 +115,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="pizza.png"
+              src="obstacle.jpg"
             />
           </td>
           <td
@@ -284,7 +131,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="obstacle.jpg"
             />
           </td>
           <td
@@ -300,7 +147,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="obstacle.jpg"
             />
           </td>
           <td
@@ -308,7 +155,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="pizza.png"
             />
           </td>
         </tr>
@@ -334,7 +181,7 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="pizza.png"
             />
           </td>
           <td
@@ -342,7 +189,155 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
             />
           </td>
           <td
@@ -382,10 +377,372 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
+              src="pizza.png"
             />
           </td>
         </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+      </div>
+      <div
+        class="sc-jSUZER gOoPkq"
+      >
+        <button
+          class="sc-gKPRtg hmnFoD"
+          data-testid="fn-controls-button-up"
+        >
+          <div
+            class="sc-iBYQkv jMtJtr"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg cILazt"
+          data-testid="fn-controls-button-down"
+        >
+          <div
+            class="sc-iBYQkv icdsrj"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hXaRCV"
+          data-testid="fn-controls-button-left"
+        >
+          <div
+            class="sc-iBYQkv RaszP"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hoHrNM"
+          data-testid="fn-controls-button-right"
+        >
+          <div
+            class="sc-iBYQkv ALwnz"
+          />
+        </button>
+        <div
+          class="sc-pyfCe droXxt"
+        >
+          <div
+            class="sc-ftTHYK eFTIwb"
+            data-testid="fn-controls-bark"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Model tests render component [TRIAL] 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe gkqtbX"
+  >
+    <div
+      class="sc-ksBlkl jmQgxj"
+    >
+      00 : 30
+    </div>
+    <div
+      class="sc-gswNZR cDelEv"
+    >
+      <div
+        class="sc-dkrFOg hUHXsd"
+      >
         <tr>
           <td
             class="sc-hLBbgP hIhZhQ"
@@ -416,6 +773,30 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
               src="blank.png"
             />
           </td>
@@ -433,6 +814,352 @@ exports[`Model tests render component 1`] = `
             <img
               class="sc-eDvSVe epBgfN"
               src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe bnTpRO"
+              src="duna.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
             />
           </td>
           <td
@@ -482,89 +1209,15 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
               src="pizza.png"
             />
           </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
           <td
             class="sc-hLBbgP hIhZhQ"
           >
             <img
               class="sc-eDvSVe epBgfN"
               src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
             />
           </td>
           <td
@@ -630,6 +1283,931 @@ exports[`Model tests render component 1`] = `
           >
             <img
               class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+      </div>
+      <div
+        class="sc-jSUZER gOoPkq"
+      >
+        <button
+          class="sc-gKPRtg hmnFoD"
+          data-testid="fn-controls-button-up"
+        >
+          <div
+            class="sc-iBYQkv jMtJtr"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg cILazt"
+          data-testid="fn-controls-button-down"
+        >
+          <div
+            class="sc-iBYQkv icdsrj"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hXaRCV"
+          data-testid="fn-controls-button-left"
+        >
+          <div
+            class="sc-iBYQkv RaszP"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hoHrNM"
+          data-testid="fn-controls-button-right"
+        >
+          <div
+            class="sc-iBYQkv ALwnz"
+          />
+        </button>
+        <div
+          class="sc-pyfCe droXxt"
+        >
+          <div
+            class="sc-ftTHYK eFTIwb"
+            data-testid="fn-controls-bark"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Model tests render component with difficulty 2 [SEEKER] 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe gkqtbX"
+  >
+    <div
+      class="sc-gswNZR cDelEv"
+    >
+      <div
+        class="sc-dkrFOg hUHXsd"
+      >
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="seeker.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe bnTpRO"
+              src="duna.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+      </div>
+      <div
+        class="sc-jSUZER gOoPkq"
+      >
+        <button
+          class="sc-gKPRtg hmnFoD"
+          data-testid="fn-controls-button-up"
+        >
+          <div
+            class="sc-iBYQkv jMtJtr"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg cILazt"
+          data-testid="fn-controls-button-down"
+        >
+          <div
+            class="sc-iBYQkv icdsrj"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hXaRCV"
+          data-testid="fn-controls-button-left"
+        >
+          <div
+            class="sc-iBYQkv RaszP"
+          />
+        </button>
+        <button
+          class="sc-gKPRtg hoHrNM"
+          data-testid="fn-controls-button-right"
+        >
+          <div
+            class="sc-iBYQkv ALwnz"
+          />
+        </button>
+        <div
+          class="sc-pyfCe droXxt"
+        >
+          <div
+            class="sc-ftTHYK eFTIwb"
+            data-testid="fn-controls-bark"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe gkqtbX"
+  >
+    <div
+      class="sc-ksBlkl jmQgxj"
+    >
+      00 : 30
+    </div>
+    <div
+      class="sc-gswNZR cDelEv"
+    >
+      <div
+        class="sc-dkrFOg hUHXsd"
+      >
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
               src="pizza.png"
             />
           </td>
@@ -663,6 +2241,614 @@ exports[`Model tests render component 1`] = `
             <img
               class="sc-eDvSVe epBgfN"
               src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe bnTpRO"
+              src="duna.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="obstacle.jpg"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="blank.png"
+            />
+          </td>
+          <td
+            class="sc-hLBbgP hIhZhQ"
+          >
+            <img
+              class="sc-eDvSVe epBgfN"
+              src="pizza.png"
             />
           </td>
           <td

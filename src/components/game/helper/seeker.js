@@ -1,17 +1,14 @@
 import { canMove } from "../../../common/utils";
 
 const chooseMove = (filteredMoves) => {
-    const random = Math.floor(Math.random() * 101);
+    const maxPercentage = filteredMoves.length >= 3 ? 101 : 100;
+    const random = Math.floor(Math.random() * maxPercentage);
     const portions = 100 / filteredMoves.length;
 
     return Math.floor(random/portions);
 };
 
 const filterGoBack = (possibleMoves, seekerLastMove) => {
-    if(possibleMoves.length < 2){
-        return possibleMoves;
-    }
-
     return possibleMoves.filter(({vector, incr}) =>
         vector !== seekerLastMove.vector ||
         (vector === seekerLastMove.vector && incr === seekerLastMove.incr)

@@ -13,6 +13,7 @@ exports[`View tests render component 1`] = `
       </h2>
       <div
         class="sc-bBABsx dUtqQl"
+        data-testid="fn-game-item-image"
       >
         <img
           class="sc-kgTSHT cOXSoe"
@@ -48,6 +49,7 @@ exports[`View tests render component 1`] = `
       </h2>
       <div
         class="sc-bBABsx dUtqQl"
+        data-testid="fn-game-item-image"
       >
         <img
           class="sc-kgTSHT cOXSoe"

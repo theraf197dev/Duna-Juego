@@ -23,8 +23,11 @@ const MenuView = ({
                 {games.items.map(({name, url}) =>
                     <div key={name} data-testid='fn-game-item'>
                         <h2>{name}</h2>
-                        <GameStyles>
-                            <ImageStyles src={url} onClick={() => setSelected(name)} />
+                        <GameStyles data-testid='fn-game-item-image'>
+                            <ImageStyles
+                                onClick={() => setSelected(name)}
+                                src={url}
+                            />
                             <SpanStyles id={1} selected={selected} name={name} />
                             <SpanStyles id={2} selected={selected} name={name} />
                             <SpanStyles id={3} selected={selected} name={name} />

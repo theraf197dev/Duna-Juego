@@ -1,16 +1,8 @@
-import React, { useCallback, useState } from "react";
-import { render } from "@testing-library/react";
-import { renderHook, act } from "@testing-library/react-hooks";
+import React from "react";
+import { render, screen, waitFor } from "@testing-library/react";
 import View from "../View.jsx";
 import fixtures from "../../../common/fixtures.js";
-
-function useHooks() {
-  const [difficultyLvl, setDifficultyLvl] = useState(1);
-
-  const changeDifficulty = useCallback(() => setDifficultyLvl(2));
-
-  return { difficultyLvl, changeDifficulty };
-};
+import userEvent from "@testing-library/user-event";
 
 describe('View tests', () => {
   let props = fixtures;
@@ -35,16 +27,4 @@ describe('View tests', () => {
 
       expect(games).not.toBeInTheDocument();
   });
-
-  test('should change difficulty', () => {
-    const { result } = renderHook(() => useHooks())
-
-    act(() => {
-      result.current.changeDifficulty()
-    });
-
-    expect(result.current.difficultyLvl).toBe(2);
-  })
 });
-
-

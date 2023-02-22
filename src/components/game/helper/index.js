@@ -30,14 +30,12 @@ const setThing = (board, freePositions, value) => {
     setBoard(board, value, x, y);
 };
 
-const obstaclesCondition = (board, vector, difficulty = 1) => {
+const obstaclesCondition = (board, vector, difficulty) => {
     switch (difficulty) {
         case 1:
             return false;
         case 2:
             return vector%2 !== 0 && vector !== 0 && (vector !== board.length - 1);
-        default:
-            return false;
     }
 };
 
@@ -106,8 +104,6 @@ const setInitBoard = (size, mode, difficulty) => {
         case GameMode.seeker:
             data = seekerMode(currentPos, size, difficulty);
             break;
-        default:
-            data = trialMode(currentPos, size, difficulty);
     }
 
     return data;

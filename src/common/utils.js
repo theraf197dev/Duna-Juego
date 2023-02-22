@@ -24,27 +24,18 @@ const GameStatus = {
 };
 
 const ImageCarousel = (name) => {
-    let image;
     switch (name) {
         case CellType.duna:
-            image = dunaImage;
-            break;
+            return dunaImage;
         case CellType.pizza:
-            image = pizzaImage;
-            break;
+            return pizzaImage;
         case CellType.blank:
-            image = blankImage;
-            break;
+            return blankImage;
         case CellType.obstacle:
-            image = obstacleImage;
-            break;
+            return obstacleImage;
         case CellType.seeker:
-            image = seekerImage;
-            break;
-        default:
-            image = blankImage;
+            return seekerImage;
     }
-    return image;
 };
 
 const canMove = (matrix, currentPos, vector, incr, size) => {
