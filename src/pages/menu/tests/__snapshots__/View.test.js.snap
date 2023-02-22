@@ -3,7 +3,7 @@
 exports[`View tests render component 1`] = `
 <div>
   <div
-    class="sc-dmctIk bhkReJ"
+    class="sc-kgTSHT fvwsQa"
   >
     <div
       data-testid="fn-game-item"
@@ -12,30 +12,30 @@ exports[`View tests render component 1`] = `
         TRIAL
       </h2>
       <div
-        class="sc-bBABsx dUtqQl"
+        class="sc-iveFHk eBkrvq"
         data-testid="fn-game-item-image"
       >
         <img
-          class="sc-kgTSHT fhuiGg"
+          class="sc-fLcnxK cStYTH"
           src="trial_mode.jpg"
         />
         <span
-          class="sc-iveFHk hwZLcM"
+          class="sc-cwSeag jCEuv"
           id="1"
           name="TRIAL"
         />
         <span
-          class="sc-iveFHk ihMfXg"
+          class="sc-cwSeag cTkRIz"
           id="2"
           name="TRIAL"
         />
         <span
-          class="sc-iveFHk dyWYud"
+          class="sc-cwSeag bpLBwa"
           id="3"
           name="TRIAL"
         />
         <span
-          class="sc-iveFHk doamAl"
+          class="sc-cwSeag hFFlHe"
           id="4"
           name="TRIAL"
         />
@@ -48,30 +48,30 @@ exports[`View tests render component 1`] = `
         SEEKER
       </h2>
       <div
-        class="sc-bBABsx dUtqQl"
+        class="sc-iveFHk eBkrvq"
         data-testid="fn-game-item-image"
       >
         <img
-          class="sc-kgTSHT fhuiGg"
+          class="sc-fLcnxK cStYTH"
           src="seeker_mode.jpg"
         />
         <span
-          class="sc-iveFHk ZNbqd"
+          class="sc-cwSeag iIpXK"
           id="1"
           name="SEEKER"
         />
         <span
-          class="sc-iveFHk ZNbqd"
+          class="sc-cwSeag iIpXK"
           id="2"
           name="SEEKER"
         />
         <span
-          class="sc-iveFHk ZNbqd"
+          class="sc-cwSeag iIpXK"
           id="3"
           name="SEEKER"
         />
         <span
-          class="sc-iveFHk ZNbqd"
+          class="sc-cwSeag iIpXK"
           id="4"
           name="SEEKER"
         />
@@ -79,49 +79,49 @@ exports[`View tests render component 1`] = `
     </div>
   </div>
   <div
-    class="sc-fLcnxK iGPkiX"
+    class="sc-bBABsx cFbJdH"
   >
     <label>
       Difficulty
     </label>
     <div
-      class="sc-hBxehG fsdLeU"
+      class="sc-fnGiBr bewMmq"
     >
       <input
-        class="sc-fnGiBr hwCGdJ"
+        class="sc-fEXmlR juFwuX"
         data-testid="fn-toogle-button"
         id="difficulty"
         type="checkbox"
       />
       <label
-        class="sc-fEXmlR ccJzPd"
+        class="sc-bjfHbI khjLuc"
         for="difficulty"
       >
         <div
-          class="sc-bjfHbI eqszNL"
+          class="sc-idXgbr fUmjgg"
         >
           <div
-            class="sc-idXgbr gxGckC"
+            class="sc-dIfARi bHlDfd"
           >
             ★
           </div>
           <div
-            class="sc-dIfARi lfcJaa"
+            class="sc-hHTYSt jUTRMd"
           >
             ★
           </div>
         </div>
         <div
-          class="sc-hHTYSt kBoZNk"
+          class="sc-dmctIk WOGAO"
         />
       </label>
     </div>
   </div>
   <div
-    class="sc-eDWCr kzwVnX"
+    class="sc-bqWxrE SooPv"
   >
     <button
-      class="sc-bqWxrE gTDXbS"
+      class="sc-ksBlkl eSPyWQ"
     >
       PLAY
     </button>

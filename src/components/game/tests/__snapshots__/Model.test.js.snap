@@ -11,713 +11,731 @@ exports[`Model tests render component [SEEKER] 1`] = `
       <div
         class="sc-dkrFOg hUHXsd"
       >
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="seeker.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe bnTpRO"
+              class="sc-jSUZER lkfwHo"
               src="duna.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
+          </div>
+        </div>
       </div>
       <div
-        class="sc-jSUZER gOoPkq"
+        class="sc-gKPRtg jjoEDq"
       >
         <button
-          class="sc-gKPRtg hmnFoD"
+          class="sc-iBYQkv ecRZIo"
           data-testid="fn-controls-button-up"
         >
           <div
-            class="sc-iBYQkv jMtJtr"
+            class="sc-ftTHYK jJeftt"
           />
         </button>
         <button
-          class="sc-gKPRtg cILazt"
+          class="sc-iBYQkv ipgrhO"
           data-testid="fn-controls-button-down"
         >
           <div
-            class="sc-iBYQkv icdsrj"
+            class="sc-ftTHYK guqlcN"
           />
         </button>
         <button
-          class="sc-gKPRtg hXaRCV"
+          class="sc-iBYQkv jKuQjy"
           data-testid="fn-controls-button-left"
         >
           <div
-            class="sc-iBYQkv RaszP"
+            class="sc-ftTHYK dqyuwh"
           />
         </button>
         <button
-          class="sc-gKPRtg hoHrNM"
+          class="sc-iBYQkv icWkIz"
           data-testid="fn-controls-button-right"
         >
           <div
-            class="sc-iBYQkv ALwnz"
+            class="sc-ftTHYK fBFusx"
           />
         </button>
         <div
-          class="sc-pyfCe droXxt"
+          class="sc-jrcTuL kKWJWa"
         >
           <div
-            class="sc-ftTHYK eFTIwb"
+            class="sc-pyfCe egBHCm"
             data-testid="fn-controls-bark"
           />
         </div>
@@ -733,7 +751,7 @@ exports[`Model tests render component [TRIAL] 1`] = `
     class="sc-bcXHqe gkqtbX"
   >
     <div
-      class="sc-ksBlkl jmQgxj"
+      class="sc-hBxehG gsRNjy"
     >
       00 : 30
     </div>
@@ -743,713 +761,731 @@ exports[`Model tests render component [TRIAL] 1`] = `
       <div
         class="sc-dkrFOg hUHXsd"
       >
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe bnTpRO"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER lkfwHo"
               src="duna.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-        </tr>
+          </div>
+        </div>
       </div>
       <div
-        class="sc-jSUZER gOoPkq"
+        class="sc-gKPRtg jjoEDq"
       >
         <button
-          class="sc-gKPRtg hmnFoD"
+          class="sc-iBYQkv ecRZIo"
           data-testid="fn-controls-button-up"
         >
           <div
-            class="sc-iBYQkv jMtJtr"
+            class="sc-ftTHYK jJeftt"
           />
         </button>
         <button
-          class="sc-gKPRtg cILazt"
+          class="sc-iBYQkv ipgrhO"
           data-testid="fn-controls-button-down"
         >
           <div
-            class="sc-iBYQkv icdsrj"
+            class="sc-ftTHYK guqlcN"
           />
         </button>
         <button
-          class="sc-gKPRtg hXaRCV"
+          class="sc-iBYQkv jKuQjy"
           data-testid="fn-controls-button-left"
         >
           <div
-            class="sc-iBYQkv RaszP"
+            class="sc-ftTHYK dqyuwh"
           />
         </button>
         <button
-          class="sc-gKPRtg hoHrNM"
+          class="sc-iBYQkv icWkIz"
           data-testid="fn-controls-button-right"
         >
           <div
-            class="sc-iBYQkv ALwnz"
+            class="sc-ftTHYK fBFusx"
           />
         </button>
         <div
-          class="sc-pyfCe droXxt"
+          class="sc-jrcTuL kKWJWa"
         >
           <div
-            class="sc-ftTHYK eFTIwb"
+            class="sc-pyfCe egBHCm"
             data-testid="fn-controls-bark"
           />
         </div>
@@ -1470,713 +1506,731 @@ exports[`Model tests render component with difficulty 2 [SEEKER] 1`] = `
       <div
         class="sc-dkrFOg hUHXsd"
       >
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="seeker.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe bnTpRO"
+              class="sc-jSUZER lkfwHo"
               src="duna.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
+          </div>
+        </div>
       </div>
       <div
-        class="sc-jSUZER gOoPkq"
+        class="sc-gKPRtg jjoEDq"
       >
         <button
-          class="sc-gKPRtg hmnFoD"
+          class="sc-iBYQkv ecRZIo"
           data-testid="fn-controls-button-up"
         >
           <div
-            class="sc-iBYQkv jMtJtr"
+            class="sc-ftTHYK jJeftt"
           />
         </button>
         <button
-          class="sc-gKPRtg cILazt"
+          class="sc-iBYQkv ipgrhO"
           data-testid="fn-controls-button-down"
         >
           <div
-            class="sc-iBYQkv icdsrj"
+            class="sc-ftTHYK guqlcN"
           />
         </button>
         <button
-          class="sc-gKPRtg hXaRCV"
+          class="sc-iBYQkv jKuQjy"
           data-testid="fn-controls-button-left"
         >
           <div
-            class="sc-iBYQkv RaszP"
+            class="sc-ftTHYK dqyuwh"
           />
         </button>
         <button
-          class="sc-gKPRtg hoHrNM"
+          class="sc-iBYQkv icWkIz"
           data-testid="fn-controls-button-right"
         >
           <div
-            class="sc-iBYQkv ALwnz"
+            class="sc-ftTHYK fBFusx"
           />
         </button>
         <div
-          class="sc-pyfCe droXxt"
+          class="sc-jrcTuL kKWJWa"
         >
           <div
-            class="sc-ftTHYK eFTIwb"
+            class="sc-pyfCe egBHCm"
             data-testid="fn-controls-bark"
           />
         </div>
@@ -2192,7 +2246,7 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
     class="sc-bcXHqe gkqtbX"
   >
     <div
-      class="sc-ksBlkl jmQgxj"
+      class="sc-hBxehG gsRNjy"
     >
       00 : 30
     </div>
@@ -2202,713 +2256,732 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
       <div
         class="sc-dkrFOg hUHXsd"
       >
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="obstacle.jpg"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="obstacle.jpg"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="obstacle.jpg"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe bnTpRO"
+              class="sc-jSUZER lkfwHo"
               src="duna.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="blank.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="obstacle.jpg"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="obstacle.jpg"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="obstacle.jpg"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-        </tr>
-        <tr>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="pizza.png"
             />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
           >
             <img
-              class="sc-eDvSVe epBgfN"
-              src="pizza.png"
-            />
-          </td>
-          <td
-            class="sc-hLBbgP hIhZhQ"
-          >
-            <img
-              class="sc-eDvSVe epBgfN"
+              class="sc-jSUZER kEdNSD"
               src="blank.png"
             />
-          </td>
-        </tr>
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
       </div>
       <div
-        class="sc-jSUZER gOoPkq"
+        class="sc-gKPRtg jjoEDq"
       >
         <button
-          class="sc-gKPRtg hmnFoD"
+          class="sc-iBYQkv ecRZIo"
           data-testid="fn-controls-button-up"
         >
           <div
-            class="sc-iBYQkv jMtJtr"
+            class="sc-ftTHYK jJeftt"
           />
         </button>
         <button
-          class="sc-gKPRtg cILazt"
+          class="sc-iBYQkv ipgrhO"
           data-testid="fn-controls-button-down"
         >
           <div
-            class="sc-iBYQkv icdsrj"
+            class="sc-ftTHYK guqlcN"
           />
         </button>
         <button
-          class="sc-gKPRtg hXaRCV"
+          class="sc-iBYQkv jKuQjy"
           data-testid="fn-controls-button-left"
+          disabled=""
         >
           <div
-            class="sc-iBYQkv RaszP"
+            class="sc-ftTHYK dqyuwh"
           />
         </button>
         <button
-          class="sc-gKPRtg hoHrNM"
+          class="sc-iBYQkv icWkIz"
           data-testid="fn-controls-button-right"
         >
           <div
-            class="sc-iBYQkv ALwnz"
+            class="sc-ftTHYK fBFusx"
           />
         </button>
         <div
-          class="sc-pyfCe droXxt"
+          class="sc-jrcTuL kKWJWa"
         >
           <div
-            class="sc-ftTHYK eFTIwb"
+            class="sc-pyfCe egBHCm"
             data-testid="fn-controls-bark"
           />
         </div>

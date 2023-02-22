@@ -18,7 +18,11 @@ const TableStyles = styled.div`
     padding: 10px;
 `;
 
-const CellStyles = styled.td`
+const RowStyles = styled.div`
+    display: inline-flex;
+`;
+
+const CellStyles = styled.div`
     padding: 5px;
     width: 50px;
 `;
@@ -48,6 +52,7 @@ export {
     CellStyles,
     ContainerStyles,
     ImageStyles,
+    RowStyles,
     TableStyles,
     WrapperGameStyles,
 };

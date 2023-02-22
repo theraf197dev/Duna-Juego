@@ -3,6 +3,7 @@ import {
     CellStyles,
     ContainerStyles,
     ImageStyles,
+    RowStyles,
     TableStyles,
     WrapperGameStyles,
 } from './View.styles.jsx';
@@ -64,7 +65,7 @@ const Game = ({
                     }
                     <ContainerStyles>
                         <TableStyles>
-                            {matrix.map((row, index) => <tr key={index}><Row row={row} key={index} lastInput={lastInput} /></tr>)}
+                            {matrix.map((row, index) => <RowStyles key={index}><Row row={row} key={index} lastInput={lastInput} /></RowStyles>)}
                         </TableStyles>
                         <Controls
                             controls={controls}
