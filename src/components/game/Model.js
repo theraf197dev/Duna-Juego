@@ -12,11 +12,18 @@ export default class Model extends Component {
     constructor(props) {
         super();
         this.state = {
-            matrix: Array.from({length: props.size}, ()=> Array.from({length: props.size}, () => CellType.blank)),
+            coverSeekerValue: CellType.pizza,
             currentPos : {
                 x: Math.floor((props.size - 1) / 2),
                 y: Math.floor((props.size - 1) / 2),
             },
+            gameStatus: GameStatus.playing,
+            lastInput: {
+                incr: 1,
+                vector: 'y',
+            },
+            matrix: Array.from({length: props.size}, ()=> Array.from({length: props.size}, () => CellType.blank)),
+            pizzas: 1,
             seekerCurrentPos: {
                 x: 0,
                 y: 0,
@@ -25,13 +32,6 @@ export default class Model extends Component {
                 incr: 1,
                 vector: 'x',
             },
-            gameStatus: GameStatus.playing,
-            coverSeekerValue: CellType.pizza,
-            lastInput: {
-                incr: 1,
-                vector: 'y',
-            },
-            pizzas: 1,
         };
         this.bindActions();
     };
