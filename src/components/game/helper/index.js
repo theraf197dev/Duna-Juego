@@ -30,21 +30,24 @@ const setThing = (board, freePositions, value) => {
     setBoard(board, value, x, y);
 };
 
-const obstaclesCondition = (board, vector, difficulty) => {
+const obstaclesCondition = (size, vector, difficulty, cell) => {
     switch (difficulty) {
         case 1:
             return false;
         case 2:
-            return vector%2 !== 0 && vector !== 0 && (vector !== board.length - 1);
+            return vector%2 !== 0 && vector !== 0 && (vector !== size - 1) && cell !== CellType.duna;
     }
 };
 
 const seekerMode = (currentPos, size, difficulty) => {
     let pizzas = (size * size) - 1;
     let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.pizza));
+
+    setBoard(board, CellType.duna, currentPos.x, currentPos.y);
+    setBoard(board, CellType.seeker, 0, 0);
     board = board.map((col, x) => obstaclesCondition(board, x, difficulty) ?
         col.map((cell, y) => {
-            if(obstaclesCondition(board, y, difficulty)){
+            if(obstaclesCondition(size, y, difficulty, cell)){
                 pizzas--;
                 return CellType.obstacle;
             }
@@ -54,9 +57,6 @@ const seekerMode = (currentPos, size, difficulty) => {
         : col
     );
 
-    setBoard(board, CellType.duna, currentPos.x, currentPos.y);
-    setBoard(board, CellType.seeker, 0, 0);
-
     return {
         board,
         pizzas,
@@ -64,7 +64,7 @@ const seekerMode = (currentPos, size, difficulty) => {
 };
 
 const trialMode = (currentPos, size, difficulty) => {
-    const pizzas = ((size * size) / 2) + size;
+    const pizzas = Math.round((size * size) / 2) + size;
     const obstacles = size - 1;
 
     let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.blank));
