@@ -22,14 +22,14 @@ export default class Model extends Component {
                 y: 0,
             },
             seekerLastMovement: {
-                vector: 'x',
                 incr: 1,
+                vector: 'x',
             },
             gameStatus: GameStatus.playing,
             coverSeekerValue: CellType.pizza,
             lastInput: {
-                vector: 'y',
                 incr: 1,
+                vector: 'y',
             },
             pizzas: 1,
         };
@@ -39,7 +39,6 @@ export default class Model extends Component {
     bindActions() {
         this.setCurrentPos = this.setCurrentPos.bind(this);
         this.setMatrix = this.setMatrix.bind(this);
-        this.setLastInput = this.setLastInput.bind(this);
         this.stopInterval = this.stopInterval.bind(this);
         this.endGame = this.endGame.bind(this);
     }
@@ -92,6 +91,10 @@ export default class Model extends Component {
             matrix: this.state.matrix.map((col, x) =>
                 col.map((cell) => cell !== CellType.duna ? cell : CellType.blank)
             ),
+            lastInput: {
+                incr,
+                vector,
+            },
             pizzas: this.state.matrix[nextPos.x][nextPos.y] === CellType.pizza ?
                 this.state.pizzas - 1 : this.state.pizzas,
         });
@@ -148,12 +151,6 @@ export default class Model extends Component {
         });
     };
 
-    setLastInput(value) {
-        this.setState({
-            lastInput: value,
-        });
-    };
-
     render() {
         return (
             <Controller
@@ -161,7 +158,6 @@ export default class Model extends Component {
                 {...this.state}
                 endGame={this.endGame}
                 setCurrentPos={this.setCurrentPos}
-                setLastInput={this.setLastInput}
                 setMatrix={this.setMatrix}
                 stopInterval={this.stopInterval}
             />

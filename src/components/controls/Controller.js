@@ -14,7 +14,6 @@ export default class Controller extends Component {
 
     handleChangePosition(vector, incr) {
         this.props.setCurrentPos(vector, incr);
-        this.props.setLastInput({vector, incr});
     };
 
     handleBark() {

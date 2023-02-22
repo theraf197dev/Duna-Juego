@@ -17,7 +17,6 @@ describe('View tests', () => {
       incr: -1,
     },
     setCurrentPos: jest.fn(),
-    setLastInput: jest.fn(),
   };
 
   it('render component', () => {

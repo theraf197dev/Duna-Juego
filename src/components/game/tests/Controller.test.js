@@ -15,7 +15,6 @@ describe('Controller tests', () => {
       vector: 'x',
       incr: -1,
     },
-    setLastInput: jest.fn(),
   };
 
   it('render component', () => {

@@ -24,7 +24,6 @@ describe('Controller tests', () => {
     const testProps = {
       ...props,
       setCurrentPos: jest.fn(),
-      setLastInput: jest.fn(),
     };
 
       render(<Controller {...testProps} />);
@@ -33,7 +32,6 @@ describe('Controller tests', () => {
       userEvent.click(upButton);
 
       expect(testProps.setCurrentPos).toHaveBeenCalled();
-      expect(testProps.setLastInput).toHaveBeenCalled();
   });
 
   it('handleChangePosition function changes currentPosition when button is clicked', async () => {
@@ -44,7 +42,6 @@ describe('Controller tests', () => {
         y: 0,
       },
       setCurrentPos: jest.fn(),
-      setLastInput: jest.fn(),
     };
 
       render(<Controller {...testProps} />);
@@ -53,7 +50,6 @@ describe('Controller tests', () => {
       userEvent.click(upButton);
 
       expect(testProps.setCurrentPos).not.toHaveBeenCalled();
-      expect(testProps.setLastInput).not.toHaveBeenCalled();
   });
 
   it('handleBark function has been called when center button is clicked', async () => {

@@ -45,7 +45,6 @@ const Game = ({
     matrix,
     mode,
     setCurrentPos,
-    setLastInput,
     size,
     time,
 }) => {
@@ -73,7 +72,6 @@ const Game = ({
                             gameStatus={gameStatus}
                             matrix={matrix}
                             setCurrentPos={setCurrentPos}
-                            setLastInput={setLastInput}
                             size={size}
                         />
                     </ContainerStyles>

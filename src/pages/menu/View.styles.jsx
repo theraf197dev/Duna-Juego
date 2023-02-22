@@ -10,6 +10,7 @@ const ContainerStyles = styled.div`
 const ImageStyles = styled.img`
     ${({ url }) => css`
         background-image: url(${url});
+        cursor: pointer;
         height: 300px;
         width: 500px;
     `}

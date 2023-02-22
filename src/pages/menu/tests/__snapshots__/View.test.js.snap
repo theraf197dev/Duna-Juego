@@ -16,7 +16,7 @@ exports[`View tests render component 1`] = `
         data-testid="fn-game-item-image"
       >
         <img
-          class="sc-kgTSHT cOXSoe"
+          class="sc-kgTSHT fhuiGg"
           src="trial_mode.jpg"
         />
         <span
@@ -52,7 +52,7 @@ exports[`View tests render component 1`] = `
         data-testid="fn-game-item-image"
       >
         <img
-          class="sc-kgTSHT cOXSoe"
+          class="sc-kgTSHT fhuiGg"
           src="seeker_mode.jpg"
         />
         <span
