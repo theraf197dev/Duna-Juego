@@ -1,7 +1,7 @@
 import { canMove } from "../../../common/utils";
 
 const chooseMove = (filteredMoves) => {
-    const maxPercentage = filteredMoves.length >= 3 ? 101 : 100;
+    const maxPercentage = filteredMoves.length < 3 ? 101 : 100;
     const random = Math.floor(Math.random() * maxPercentage);
     const portions = 100 / filteredMoves.length;
 
@@ -35,6 +35,11 @@ const seekerMove = (seekerLastMove, seekerCurrentPos, matrix, size) => {
     const filteredMoves = filterGoBack(possibleMoves, seekerLastMove);
 
     const index = chooseMove(filteredMoves);
+
+    if(filteredMoves[index] === undefined){
+        console.log(index);
+        console.log(filteredMoves);
+    }
 
     return filteredMoves[index];
 };
