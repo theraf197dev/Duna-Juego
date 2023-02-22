@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import {
     ButtonStyles,
     ContainerButtonStyles,
@@ -15,6 +16,11 @@ const Button = ({
         </ButtonStyles>
     </ContainerButtonStyles>
   )
+};
+
+Button.propTypes = {
+  buttonText: PropTypes.string,
+  handleClick: PropTypes.func,
 };
 
 export default Button;

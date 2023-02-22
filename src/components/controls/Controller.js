@@ -1,4 +1,5 @@
 import { Component } from "react";
+import PropTypes from 'prop-types';
 import View from './View.jsx';
 
 export default class Controller extends Component {
@@ -31,3 +32,13 @@ export default class Controller extends Component {
     }
 }
 
+Controller.propTypes = {
+    controls: PropTypes.array,
+    currentPos: PropTypes.object,
+    gameStatus: PropTypes.string,
+    matrix: PropTypes.array,
+    setCurrentPos: PropTypes.func,
+    size: PropTypes.number,
+};
+
+Controller.displayName= 'ControllerControls';

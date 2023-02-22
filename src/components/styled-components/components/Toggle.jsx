@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import PropTypes from 'prop-types';
 import {
     ContainerToogleStyles,
     ToogleFirstStarStyles,
@@ -37,6 +38,12 @@ const Toogle = ({
             </ToogleLabelStyles>
         </ContainerToogleStyles>
     )
+};
+
+Toogle.propTypes = {
+    handleChange: PropTypes.func,
+    id: PropTypes.string,
+    value: PropTypes.number,
 };
 
 export default Toogle;

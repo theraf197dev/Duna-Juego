@@ -1,4 +1,5 @@
 import { Component } from "react";
+import PropTypes from 'prop-types';
 import {
     CellType,
     GameMode,
@@ -29,11 +30,25 @@ export default class Controller extends Component {
         return (
             <View
                 {...this.props}
-                endGame={this.props.endGame}
-                setCurrentPos={this.props.setCurrentPos}
             />
         )
     }
+};
+
+Controller.propTypes = {
+    controls: PropTypes.array,
+    currentPos: PropTypes.object,
+    endGame: PropTypes.func,
+    gameStatus: PropTypes.string,
+    restartGame: PropTypes.func,
+    lastInput: PropTypes.object,
+    matrix: PropTypes.array,
+    mode: PropTypes.string,
+    pizzas: PropTypes.number,
+    seekerCurrentPos: PropTypes.object,
+    setCurrentPos: PropTypes.func,
+    size: PropTypes.number,
+    time: PropTypes.number,
 };
 
 Controller.displayName = 'ControllerGame';

@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import {
     CellStyles,
     ContainerStyles,
@@ -81,6 +82,20 @@ const Game = ({
             }
         </>
     );
-}
+};
+
+Game.propTypes = {
+    controls: PropTypes.array,
+    currentPos: PropTypes.object,
+    endGame: PropTypes.func,
+    gameStatus: PropTypes.string,
+    restartGame: PropTypes.func,
+    lastInput: PropTypes.object,
+    matrix: PropTypes.array,
+    mode: PropTypes.string,
+    setCurrentPos: PropTypes.func,
+    size: PropTypes.number,
+    time: PropTypes.number,
+};
 
 export default Game;

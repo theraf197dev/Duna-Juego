@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import PropTypes from 'prop-types';
 import Game from '../../components/game/Model';
 import { Toogle, Button } from '../../components/styled-components';
 import {
@@ -85,5 +86,14 @@ const Menu = ({
         </>
     );
 }
+
+Menu.propTypes = {
+    controls: PropTypes.array,
+    difficulty: PropTypes.number,
+    games: PropTypes.array,
+    mode: PropTypes.string,
+    size: PropTypes.number,
+    time: PropTypes.number,
+};
 
 export default Menu;

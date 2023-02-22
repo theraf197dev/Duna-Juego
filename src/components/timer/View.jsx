@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
 import { getTimeFormated } from './helper';
 import {
     ContainerStyles,
@@ -32,6 +33,12 @@ const Timer = ({
   return (
     <ContainerStyles seconds={seconds}>{getTimeFormated(seconds)}</ContainerStyles>
   );
+};
+
+Timer.propTypes = {
+  handleEndOfTimer: PropTypes.func,
+  stopTimer: PropTypes.bool,
+  time: PropTypes.number,
 };
 
 export default Timer;

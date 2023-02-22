@@ -1,4 +1,5 @@
 import React, { Component }  from "react";
+import PropTypes from 'prop-types';
 import {
     CellType,
     GameMode,
@@ -165,5 +166,13 @@ export default class Model extends Component {
     };
 };
 
-Model.displayName = 'ModelGame';
+Model.propTypes = {
+    controls: PropTypes.array,
+    difficulty: PropTypes.number,
+    mode: PropTypes.string,
+    restartGame: PropTypes.func,
+    size: PropTypes.number,
+    time: PropTypes.number,
+};
 
+Model.displayName = 'ModelGame';

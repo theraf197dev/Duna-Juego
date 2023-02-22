@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import {
   ButtonStyles,
   CircleStyles,
@@ -8,7 +9,7 @@ import {
 } from './View.styles.jsx';
 import { canMove, GameStatus } from '../../common/utils.js';
 
-const View = ({
+const Controls = ({
     controls,
     currentPos,
     gameStatus,
@@ -37,7 +38,17 @@ const View = ({
         <CircleStyles data-testid={'fn-controls-bark'} onClick={handleBark} />
       </CrossStyles>
     </ContainerStyles>
-  )
-}
+  );
+};
 
-export default View
+Controls.propTypes = {
+  controls: PropTypes.array,
+  currentPos: PropTypes.object,
+  gameStatus: PropTypes.string,
+  handleBark: PropTypes.func,
+  handleChangePosition: PropTypes.func,
+  matrix: PropTypes.array,
+  size: PropTypes.number,
+};
+
+export default Controls;
