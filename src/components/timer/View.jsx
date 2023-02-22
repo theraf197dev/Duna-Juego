@@ -26,6 +26,7 @@ const Timer = ({
     }
 
     return () => clearInterval(interval);
+    // eslint-disable-next-line
   }, [seconds, stopTimer]);
 
   return (

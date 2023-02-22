@@ -31,6 +31,7 @@ const setThing = (board, freePositions, value) => {
 };
 
 const obstaclesCondition = (size, vector, difficulty, cell) => {
+    // eslint-disable-next-line
     switch (difficulty) {
         case 1:
             return false;
@@ -97,6 +98,7 @@ const setInitBoard = (size, mode, difficulty) => {
         y: Math.floor((size - 1) / 2),
     };
 
+    // eslint-disable-next-line
     switch (mode) {
         case GameMode.trial:
             data = trialMode(currentPos, size, difficulty);

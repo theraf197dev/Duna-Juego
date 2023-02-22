@@ -24,6 +24,7 @@ const GameStatus = {
 };
 
 const ImageCarousel = (name) => {
+    // eslint-disable-next-line
     switch (name) {
         case CellType.duna:
             return dunaImage;
