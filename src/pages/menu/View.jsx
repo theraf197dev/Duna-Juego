@@ -21,7 +21,7 @@ const MenuView = ({
     return (
         <>
             <ContainerStyles>
-                {games.items.map(({name, url}) =>
+                {games.map(({name, url}) =>
                     <div key={name} data-testid='fn-game-item'>
                         <h2>{name}</h2>
                         <GameStyles data-testid='fn-game-item-image'>

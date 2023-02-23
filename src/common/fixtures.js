@@ -29,18 +29,16 @@ const controls = [
     },
 ];
 
-const games = {
-    items: [
-        {
-            name: GameMode.trial,
-            url: trialImage,
-        },
-        {
-            name: GameMode.seeker,
-            url: seekerImage,
-        },
-    ],
-};
+const games = [
+    {
+        name: GameMode.trial,
+        url: trialImage,
+    },
+    {
+        name: GameMode.seeker,
+        url: seekerImage,
+    },
+];
 
 const matrix = [
     [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],

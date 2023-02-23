@@ -16,9 +16,7 @@ describe('View tests', () => {
   it('render component without games', () => {
       const testProps = {
         ...props,
-        games: {
-          items: [],
-        },
+        games: [],
       };
 
       const { container } = render(<View {...testProps} />);
