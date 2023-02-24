@@ -8,9 +8,10 @@ const ContainerStyles = styled.div`
 `;
 
 const ButtonStyles = styled.button`
-    ${({control}) => css`
+    ${({canActive, control}) => css`
         background-color: #333333;
         border: none;
+        cursor: pointer;
         display: flex;
         height: 70px;
         justify-content: center;
@@ -27,6 +28,12 @@ const ButtonStyles = styled.button`
             border-radius: ${control.incr === -1 ? '15% 15% 0 0' : '0 0 15% 15%'};
             grid-column: 2;
             grid-row: ${control.incr === -1 ? 1 : 3};
+        `}
+
+        ${canActive && css`
+            &:active {
+                background-color: #a51631;
+            }
         `}
     `}
 `;
@@ -49,11 +56,20 @@ const FigureStyles = styled.div`
 `;
 
 const CircleStyles = styled.div`
-    background-color: #1e1e1e;
-    border-radius: 100%;
-    height: 55px;
-    place-self: center;
-    width: 55px;
+    ${({ canActive }) => css`
+        background-color: #1e1e1e;
+        border-radius: 100%;
+        cursor: pointer;
+        height: 55px;
+        place-self: center;
+        width: 55px;
+
+        ${canActive && css`
+            &:active {
+                background-color: #a51631;
+            }
+        `}
+    `};
 `;
 
 const CrossStyles = styled.div`

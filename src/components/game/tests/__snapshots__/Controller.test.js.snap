@@ -705,7 +705,7 @@ exports[`Controller tests render component 1`] = `
         class="sc-gKPRtg jjoEDq"
       >
         <button
-          class="sc-iBYQkv ecRZIo"
+          class="sc-iBYQkv leMqTJ"
           data-testid="fn-controls-button-up"
         >
           <div
@@ -713,7 +713,7 @@ exports[`Controller tests render component 1`] = `
           />
         </button>
         <button
-          class="sc-iBYQkv ipgrhO"
+          class="sc-iBYQkv ibTONz"
           data-testid="fn-controls-button-down"
         >
           <div
@@ -721,7 +721,7 @@ exports[`Controller tests render component 1`] = `
           />
         </button>
         <button
-          class="sc-iBYQkv jKuQjy"
+          class="sc-iBYQkv cCmrZb"
           data-testid="fn-controls-button-left"
         >
           <div
@@ -729,7 +729,7 @@ exports[`Controller tests render component 1`] = `
           />
         </button>
         <button
-          class="sc-iBYQkv icWkIz"
+          class="sc-iBYQkv eyjLfm"
           data-testid="fn-controls-button-right"
         >
           <div
@@ -740,7 +740,7 @@ exports[`Controller tests render component 1`] = `
           class="sc-jrcTuL kKWJWa"
         >
           <div
-            class="sc-pyfCe egBHCm"
+            class="sc-pyfCe kKympj"
             data-testid="fn-controls-bark"
           />
         </div>

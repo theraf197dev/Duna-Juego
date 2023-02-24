@@ -6,7 +6,7 @@ exports[`View tests render component 1`] = `
     class="sc-bcXHqe gzQsTO"
   >
     <button
-      class="sc-gswNZR fieUDz"
+      class="sc-gswNZR eKcjBW"
       data-testid="fn-controls-button-up"
     >
       <div
@@ -14,7 +14,7 @@ exports[`View tests render component 1`] = `
       />
     </button>
     <button
-      class="sc-gswNZR kEmwOF"
+      class="sc-gswNZR dvMeFY"
       data-testid="fn-controls-button-down"
     >
       <div
@@ -22,7 +22,7 @@ exports[`View tests render component 1`] = `
       />
     </button>
     <button
-      class="sc-gswNZR hAYefZ"
+      class="sc-gswNZR dZEoHc"
       data-testid="fn-controls-button-left"
     >
       <div
@@ -30,7 +30,7 @@ exports[`View tests render component 1`] = `
       />
     </button>
     <button
-      class="sc-gswNZR gCaqCQ"
+      class="sc-gswNZR lkPqEd"
       data-testid="fn-controls-button-right"
     >
       <div
@@ -41,7 +41,7 @@ exports[`View tests render component 1`] = `
       class="sc-eDvSVe dTHyfn"
     >
       <div
-        class="sc-hLBbgP gNphbY"
+        class="sc-hLBbgP kmMqap"
         data-testid="fn-controls-bark"
       />
     </div>

@@ -1,11 +1,14 @@
 import { Component } from "react";
 import PropTypes from 'prop-types';
 import View from './View.jsx';
+import barkSFX from '../../common/media/bark.mp3';
+import { GameStatus } from "../../common/utils.js";
 
 export default class Controller extends Component {
     constructor(props) {
         super(props);
         this.bindActions();
+        this.audio = new Audio(barkSFX);
     };
 
     bindActions() {
@@ -18,7 +21,8 @@ export default class Controller extends Component {
     };
 
     handleBark() {
-        console.log('bark');
+        if(this.props.gameStatus === GameStatus.playing)
+            this.audio.play();
     };
 
     render() {

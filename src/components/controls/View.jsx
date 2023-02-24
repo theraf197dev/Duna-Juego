@@ -22,6 +22,10 @@ const Controls = ({
     <ContainerStyles>
       {controls.map((control) =>
         <ButtonStyles
+          canActive={
+            canMove(matrix, currentPos, control.vector, control.incr, size)
+            && gameStatus === GameStatus.playing
+          }
           control={control}
           data-testid={`fn-controls-button-${control.name}`}
           disabled={
@@ -35,7 +39,13 @@ const Controls = ({
         </ButtonStyles>
       )}
       <CrossStyles>
-        <CircleStyles data-testid={'fn-controls-bark'} onClick={handleBark} />
+        <CircleStyles
+          canActive={
+            gameStatus === GameStatus.playing
+          }
+          data-testid={'fn-controls-bark'}
+          onClick={handleBark}
+        />
       </CrossStyles>
     </ContainerStyles>
   );
