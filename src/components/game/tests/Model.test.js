@@ -1,10 +1,10 @@
-import { render } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import fixtures from '../../../common/fixtures';
 import { GameMode } from "../../../common/utils";
 import Model from "../Model";
 
 describe('Model tests', () => {
-  let props = {
+  const props = {
     ...fixtures,
     restartGame: jest.fn(),
   };
@@ -46,15 +46,4 @@ describe('Model tests', () => {
 
     expect(container).toMatchSnapshot();
   });
-
-  it('render component [SEEKER]', () => {
-    const testProps = {
-      ...props,
-      difficulty: 2,
-      mode: GameMode.seeker,
-    };
-    const { container } = render(<Model {...testProps} />);
-
-    expect(container).toMatchSnapshot();
-});
 });

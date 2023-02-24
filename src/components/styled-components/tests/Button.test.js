@@ -2,7 +2,7 @@ import { render } from "@testing-library/react";
 import Button from '../components/Button.jsx';
 
 describe('Button tests', () => {
-  let props = {
+  const props = {
     buttonText: 'testButton',
     handleClick: jest.fn(),
   };

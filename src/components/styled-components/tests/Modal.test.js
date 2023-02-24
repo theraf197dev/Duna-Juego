@@ -2,7 +2,7 @@ import { render } from "@testing-library/react";
 import Modal from '../components/Modal.jsx';
 
 describe('Modal tests', () => {
-  let props = {
+  const props = {
     handleChange: jest.fn(),
     id: 'testId',
     value: false,

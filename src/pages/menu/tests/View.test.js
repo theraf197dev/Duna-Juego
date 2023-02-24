@@ -5,7 +5,7 @@ import fixtures from "../../../common/fixtures.js";
 import userEvent from "@testing-library/user-event";
 
 describe('View tests', () => {
-  let props = fixtures;
+  const props = fixtures;
 
   it('render component', () => {
       const { container } = render(<View {...props} />);

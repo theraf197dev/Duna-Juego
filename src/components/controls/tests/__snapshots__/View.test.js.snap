@@ -41,7 +41,7 @@ exports[`View tests render component 1`] = `
       class="sc-eDvSVe dTHyfn"
     >
       <div
-        class="sc-hLBbgP kmMqap"
+        class="sc-hLBbgP dPRgrd"
         data-testid="fn-controls-bark"
       />
     </div>

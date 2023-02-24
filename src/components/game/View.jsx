@@ -29,10 +29,10 @@ const EndModal = ({ gameStatus, restartGame }) => (
 );
 
 const Row = ({ row, lastInput }) => {
-    return row.map((cell, index) => <CellStyles key={index}><ImageStyles
-        src={ImageCarousel(cell)}
+    return row.map((cell, index) => <CellStyles data-testid={`fn-cell-${cell}`} key={index}><ImageStyles
         lastInput={lastInput}
         player={cell === CellType.duna}
+        src={ImageCarousel(cell)}
     />
     </CellStyles>);
 };

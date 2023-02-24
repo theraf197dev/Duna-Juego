@@ -21,6 +21,7 @@ exports[`View tests render component 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -29,6 +30,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -37,6 +39,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -45,6 +48,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -53,6 +57,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -61,6 +66,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -69,6 +75,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -77,6 +84,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -85,82 +93,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -173,6 +106,7 @@ exports[`View tests render component 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -181,6 +115,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -189,6 +124,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -197,6 +133,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -205,6 +142,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -213,6 +151,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -221,6 +160,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -229,6 +169,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -237,6 +178,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -249,6 +191,7 @@ exports[`View tests render component 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -257,6 +200,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -265,6 +209,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -273,6 +218,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -281,6 +227,92 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-duna"
           >
             <img
               class="sc-jSUZER gxnBHs"
@@ -289,6 +321,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -297,6 +330,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -305,6 +339,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -313,82 +348,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -401,6 +361,7 @@ exports[`View tests render component 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -409,6 +370,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -417,6 +379,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -425,6 +388,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -433,6 +397,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -441,6 +406,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -449,6 +415,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -457,6 +424,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -465,82 +433,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -553,6 +446,7 @@ exports[`View tests render component 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -561,6 +455,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -569,6 +464,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -577,6 +473,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -585,6 +482,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -593,6 +491,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -601,6 +500,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -609,6 +509,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -617,6 +518,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -629,6 +531,7 @@ exports[`View tests render component 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -637,6 +540,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -645,6 +549,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -653,6 +558,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -661,6 +567,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -669,6 +576,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -677,6 +585,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -685,6 +594,7 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -693,6 +603,177 @@ exports[`View tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
@@ -740,7 +821,7 @@ exports[`View tests render component 1`] = `
           class="sc-jrcTuL kKWJWa"
         >
           <div
-            class="sc-pyfCe kKympj"
+            class="sc-pyfCe gVlojz"
             data-testid="fn-controls-bark"
           />
         </div>

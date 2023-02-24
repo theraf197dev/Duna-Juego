@@ -2,7 +2,7 @@ import { render } from "@testing-library/react";
 import View from "../View.jsx";
 
 describe('View tests', () => {
-  let props = {
+  const props = {
     handleEndOfTimer: jest.fn(),
     stopTimer: false,
     time: 3,

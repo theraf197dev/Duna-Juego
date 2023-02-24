@@ -3,10 +3,10 @@ import userEvent from "@testing-library/user-event";
 import Toogle from '../components/Toggle';
 
 describe('Toogle tests', () => {
-  let props = {
+  const props = {
     handleChange: jest.fn(),
     id: 'testId',
-    value: false,
+    value: 0,
   };
 
   it('render component', () => {

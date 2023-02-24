@@ -4,7 +4,7 @@ import { GameStatus } from "../../../common/utils";
 import Controller from "../Controller";
 
 describe('Controller tests', () => {
-  let props = {
+  const props = {
     ...fixtures,
     currentPos : {
       x: 3, y: 4,

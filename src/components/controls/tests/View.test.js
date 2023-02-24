@@ -4,7 +4,7 @@ import { GameStatus } from "../../../common/utils";
 import View from "../View.jsx";
 
 describe('View tests', () => {
-  let props = {
+  const props = {
     ...fixtures,
     currentPos: {
       x: 3,

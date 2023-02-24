@@ -5,7 +5,7 @@ import { GameStatus } from "../../../common/utils";
 import Controller from "../Controller";
 
 describe('Controller tests', () => {
-  let props = {
+  const props = {
     ...fixtures,
     currentPos: {
       x: 3,
@@ -53,6 +53,7 @@ describe('Controller tests', () => {
   });
 
   it('handleBark function has been called when center button is clicked', async () => {
+      HTMLMediaElement.prototype.play = jest.fn();
       const { container } = render(<Controller {...props} />);
 
       const barkButton = await screen.findByTestId('fn-controls-bark');
