@@ -22,7 +22,7 @@ const Controls = ({
     <ContainerStyles>
       {controls.map((control) =>
         <ButtonStyles
-          canActive={
+          canActivate={
             canMove(matrix, currentPos, control.vector, control.incr, size)
             && gameStatus === GameStatus.playing
           }
@@ -40,7 +40,7 @@ const Controls = ({
       )}
       <CrossStyles>
         <CircleStyles
-          canActive={
+          canActivate={
             gameStatus === GameStatus.playing
           }
           data-testid={'fn-controls-bark'}

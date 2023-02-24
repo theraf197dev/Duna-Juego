@@ -8,10 +8,10 @@ const ContainerStyles = styled.div`
 `;
 
 const ButtonStyles = styled.button`
-    ${({canActive, control}) => css`
+    ${({canActivate, control}) => css`
         background-color: #333333;
         border: none;
-        cursor: pointer;
+        cursor: ${canActivate ? 'pointer': 'default'};
         display: flex;
         height: 70px;
         justify-content: center;
@@ -30,7 +30,7 @@ const ButtonStyles = styled.button`
             grid-row: ${control.incr === -1 ? 1 : 3};
         `}
 
-        ${canActive && css`
+        ${canActivate && css`
             &:active {
                 background-color: #a51631;
             }
@@ -56,15 +56,15 @@ const FigureStyles = styled.div`
 `;
 
 const CircleStyles = styled.div`
-    ${({ canActive }) => css`
+    ${({ canActivate }) => css`
         background-color: #1e1e1e;
         border-radius: 100%;
-        cursor: pointer;
+        cursor: ${canActivate ? 'pointer': 'default'};
         height: 55px;
         place-self: center;
         width: 55px;
 
-        ${canActive && css`
+        ${canActivate && css`
             &:active {
                 background-color: #a51631;
             }
