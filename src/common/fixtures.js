@@ -56,6 +56,7 @@ const difficulty = 1;
 const mode = GameMode.trial;
 const size = 9;
 const time = 30;
+const seekerSpeed = 500; //Every x miliseconds seeker will move
 
 const fixtures =  {
     controls,
@@ -63,6 +64,7 @@ const fixtures =  {
     games,
     matrix,
     mode,
+    seekerSpeed,
     size,
     time,
 };

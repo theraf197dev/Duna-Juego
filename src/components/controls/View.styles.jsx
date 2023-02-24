@@ -56,20 +56,16 @@ const FigureStyles = styled.div`
 `;
 
 const CircleStyles = styled.div`
-    ${({ canActivate }) => css`
-        background-color: #1e1e1e;
-        border-radius: 100%;
-        cursor: ${canActivate ? 'pointer': 'default'};
-        height: 55px;
-        place-self: center;
-        width: 55px;
+    background-color: #1e1e1e;
+    border-radius: 100%;
+    cursor: pointer;
+    height: 55px;
+    place-self: center;
+    width: 55px;
 
-        ${canActivate && css`
-            &:active {
-                background-color: #a51631;
-            }
-        `}
-    `};
+    &:active {
+        background-color: #a51631;
+    }
 `;
 
 const CrossStyles = styled.div`

@@ -55,6 +55,7 @@ const Menu = ({
     difficulty,
     games,
     mode,
+    seekerSpeed,
     size,
     time,
 }) => {
@@ -70,6 +71,7 @@ const Menu = ({
                     difficulty={difficultyLvl}
                     mode={selected}
                     restartGame={() => setGame(false)}
+                    seekerSpeed={seekerSpeed}
                     size={size}
                     time={time}
                 />
@@ -92,6 +94,7 @@ Menu.propTypes = {
     difficulty: PropTypes.number,
     games: PropTypes.array,
     mode: PropTypes.string,
+    seekerSpeed: PropTypes.number,
     size: PropTypes.number,
     time: PropTypes.number,
 };

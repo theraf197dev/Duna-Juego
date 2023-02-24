@@ -21,8 +21,7 @@ export default class Controller extends Component {
     };
 
     handleBark() {
-        if(this.props.gameStatus === GameStatus.playing)
-            this.audio.play();
+        this.audio.play();
     };
 
     render() {

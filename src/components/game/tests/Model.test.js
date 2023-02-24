@@ -36,7 +36,7 @@ describe('Model tests', () => {
       expect(container).toMatchSnapshot();
   });
 
-it('render component with difficulty 2 [SEEKER]', () => {
+  it('render component with difficulty 2 [SEEKER]', () => {
     const testProps = {
       ...props,
       difficulty: 2,
@@ -46,4 +46,15 @@ it('render component with difficulty 2 [SEEKER]', () => {
 
     expect(container).toMatchSnapshot();
   });
+
+  it('render component [SEEKER]', () => {
+    const testProps = {
+      ...props,
+      difficulty: 2,
+      mode: GameMode.seeker,
+    };
+    const { container } = render(<Model {...testProps} />);
+
+    expect(container).toMatchSnapshot();
+});
 });

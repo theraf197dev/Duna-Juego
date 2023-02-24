@@ -55,7 +55,7 @@ export default class Model extends Component {
                     this.props.size
                 );
                 this.setSeekerPos(vector, incr);
-            }, 500);
+            }, this.props.seekerSpeed);
         }
     }
 
@@ -131,7 +131,7 @@ export default class Model extends Component {
         }
     };
 
-    setMatrix(value, pos = this.state.currentPos) {
+    setMatrix(value, pos) {
         const {x, y} = pos;
         this.setState({
             matrix: this.state.matrix.map((col, index) =>
@@ -171,6 +171,7 @@ Model.propTypes = {
     difficulty: PropTypes.number,
     mode: PropTypes.string,
     restartGame: PropTypes.func,
+    seekerSpeed: PropTypes.number,
     size: PropTypes.number,
     time: PropTypes.number,
 };
