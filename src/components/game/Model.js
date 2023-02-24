@@ -136,7 +136,7 @@ export default class Model extends Component {
         this.setState({
             matrix: this.state.matrix.map((col, index) =>
                 index === x ?
-                col.map((cell, index) => index === y ? value : cell)
+                col.map((cell, index) => index === y && cell !== CellType.seeker ? value : cell)
                 : col
             )
         });
