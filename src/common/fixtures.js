@@ -55,8 +55,8 @@ const matrix = [
 const difficulty = 1;
 const mode = GameMode.trial;
 const size = 9;
-const time = 30;
-const seekerSpeed = 500; //Every x miliseconds seeker will move
+const time = 25;
+const seekerSpeed = 300; //Every x miliseconds seeker will move
 
 const fixtures =  {
     controls,
