@@ -312,7 +312,7 @@ exports[`Controller tests render component 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-duna"
+            data-testid="fn-cell-player"
           >
             <img
               class="sc-jSUZER gxnBHs"

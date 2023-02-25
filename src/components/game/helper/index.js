@@ -36,7 +36,7 @@ const obstaclesCondition = (size, vector, difficulty, cell) => {
         case 1:
             return false;
         case 2:
-            return vector%2 !== 0 && vector !== 0 && (vector !== size - 1) && cell !== CellType.duna;
+            return vector%2 !== 0 && vector !== 0 && (vector !== size - 1) && cell !== CellType.player;
     }
 };
 
@@ -44,7 +44,7 @@ const seekerMode = (currentPos, size, difficulty) => {
     let pizzas = (size * size) - 1;
     let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.pizza));
 
-    setBoard(board, CellType.duna, currentPos.x, currentPos.y);
+    setBoard(board, CellType.player, currentPos.x, currentPos.y);
     setBoard(board, CellType.seeker, 0, 0);
     board = board.map((col, x) => obstaclesCondition(board, x, difficulty) ?
         col.map((cell, y) => {
@@ -69,7 +69,7 @@ const trialMode = (currentPos, size, difficulty) => {
     const obstacles = size - 1;
 
     let board = Array.from({length: size}, ()=> Array.from({length: size}, () => CellType.blank));
-    setBoard(board, CellType.duna, currentPos.x, currentPos.y);
+    setBoard(board, CellType.player, currentPos.x, currentPos.y);
 
     let freePositions = createFreeBoardPositions(board);
 

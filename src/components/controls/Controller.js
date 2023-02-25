@@ -2,7 +2,6 @@ import { Component } from "react";
 import PropTypes from 'prop-types';
 import View from './View.jsx';
 import barkSFX from '../../common/media/bark.mp3';
-import { GameStatus } from "../../common/utils.js";
 
 export default class Controller extends Component {
     constructor(props) {

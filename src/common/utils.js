@@ -6,7 +6,7 @@ import seekerImage from './media/seeker.jpg';
 
 const CellType = {
     blank: 'blank',
-    duna: 'duna',
+    player: 'player',
     pizza: 'pizza',
     obstacle: 'obstacle',
     seeker: 'seeker',
@@ -26,7 +26,7 @@ const GameStatus = {
 const ImageCarousel = (name) => {
     // eslint-disable-next-line
     switch (name) {
-        case CellType.duna:
+        case CellType.player:
             return dunaImage;
         case CellType.pizza:
             return pizzaImage;

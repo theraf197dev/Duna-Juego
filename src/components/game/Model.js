@@ -90,7 +90,7 @@ export default class Model extends Component {
         this.setState({
             currentPos: nextPos,
             matrix: this.state.matrix.map((col, x) =>
-                col.map((cell) => cell !== CellType.duna ? cell : CellType.blank)
+                col.map((cell) => cell !== CellType.player ? cell : CellType.blank)
             ),
             lastInput: {
                 incr,
@@ -126,7 +126,7 @@ export default class Model extends Component {
             coverSeekerValue: this.state.matrix[nextSeekerPos.x][nextSeekerPos.y],
         });
 
-        if(this.state.matrix[nextSeekerPos.x][nextSeekerPos.y] === CellType.duna) {
+        if(this.state.matrix[nextSeekerPos.x][nextSeekerPos.y] === CellType.player) {
             this.endGame(GameStatus.defeat);
         }
     };

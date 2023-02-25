@@ -12,7 +12,7 @@ describe('Helper tests', () => {
           board: [
               [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
               [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
-              [CellType.blank, CellType.blank, CellType.duna, CellType.blank, CellType.blank],
+              [CellType.blank, CellType.blank, CellType.player, CellType.blank, CellType.blank],
               [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
               [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
           ],
@@ -66,7 +66,7 @@ describe('Helper tests', () => {
               [
                 'pizza', 'pizza',
                 'pizza', 'pizza',
-                'duna',  'pizza',
+                'player',  'pizza',
                 'pizza', 'pizza',
                 'pizza'
               ],
@@ -112,7 +112,7 @@ describe('Seeker tests', () => {
     matrix: [
       [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
       [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
-      [CellType.blank, CellType.blank, CellType.duna, CellType.blank, CellType.blank],
+      [CellType.blank, CellType.blank, CellType.player, CellType.blank, CellType.blank],
       [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
       [CellType.blank, CellType.blank, CellType.blank, CellType.blank, CellType.blank],
     ],
