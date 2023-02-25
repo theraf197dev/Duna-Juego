@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Duna-Juego/static/css/main.7f990c33.css",
+    "main.js": "/Duna-Juego/static/js/main.38025569.js",
+    "static/media/pizza.png": "/Duna-Juego/static/media/pizza.12b507f5d89d11fa78fa.png",
+    "static/media/seeker.jpg": "/Duna-Juego/static/media/seeker.dfb18ed08231fd54eb0f.jpg",
+    "static/media/player.jpg": "/Duna-Juego/static/media/player.38e5c9e8ff4bca454a9d.jpg",
+    "static/media/lose.jpg": "/Duna-Juego/static/media/lose.b47dc50d4d661adbaa3f.jpg",
+    "static/media/obstacle.jpg": "/Duna-Juego/static/media/obstacle.9a6fdf506243cafced4f.jpg",
+    "static/media/seeker_mode.jpg": "/Duna-Juego/static/media/seeker_mode.20c76981307443b4ca8a.jpg",
+    "static/media/win.jpg": "/Duna-Juego/static/media/win.97280a503047a809b556.jpg",
+    "static/media/trial_mode.jpg": "/Duna-Juego/static/media/trial_mode.5274ceeb23bd0b0cc3ed.jpg",
+    "static/media/bark.mp3": "/Duna-Juego/static/media/bark.f9d852d2201878de8b2e.mp3",
+    "index.html": "/Duna-Juego/index.html",
+    "main.7f990c33.css.map": "/Duna-Juego/static/css/main.7f990c33.css.map",
+    "main.38025569.js.map": "/Duna-Juego/static/js/main.38025569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f990c33.css",
+    "static/js/main.38025569.js"
+  ]
+}
