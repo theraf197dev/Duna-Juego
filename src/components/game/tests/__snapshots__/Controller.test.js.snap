@@ -8,7 +8,7 @@ exports[`Controller tests render component 1`] = `
     <div
       class="sc-hBxehG gsRNjy"
     >
-      00 : 30
+      00 : 25
     </div>
     <div
       class="sc-gswNZR cDelEv"
@@ -316,7 +316,7 @@ exports[`Controller tests render component 1`] = `
           >
             <img
               class="sc-jSUZER gxnBHs"
-              src="duna.jpg"
+              src="player.jpg"
             />
           </div>
           <div
