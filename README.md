@@ -3,7 +3,7 @@
 This is a project created with React, to improve my skills and test myself making a web game similar to pacman.
 
 
-![image](https://user-images.githubusercontent.com/103930301/221373191-6523e65d-cf02-4e77-8aff-d1862ab91a79.png)
+![image](https://user-images.githubusercontent.com/103930301/221374441-b9d2030c-cbf0-4b9e-9f31-b7efd33cff46.png)
 
 
 The game has 2 different modes:
