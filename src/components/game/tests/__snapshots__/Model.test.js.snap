@@ -847,11 +847,20 @@ exports[`Model tests render component [TRIAL] 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="pizza.png"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
             />
           </div>
           <div
@@ -901,11 +910,51 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
           >
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
             />
           </div>
           <div
@@ -924,6 +973,42 @@ exports[`Model tests render component [TRIAL] 1`] = `
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
             />
           </div>
         </div>
@@ -950,6 +1035,24 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
           >
             <img
@@ -959,29 +1062,11 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
+            data-testid="fn-cell-pizza"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
+              src="pizza.png"
             />
           </div>
           <div
@@ -1026,11 +1111,11 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="pizza.png"
+              src="blank.png"
             />
           </div>
           <div
@@ -1044,11 +1129,11 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="pizza.png"
+              src="blank.png"
             />
           </div>
           <div
@@ -1111,96 +1196,11 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
           >
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
             />
           </div>
           <div
@@ -1259,176 +1259,6 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
           >
             <img
@@ -1451,20 +1281,20 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
+            data-testid="fn-cell-pizza"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="blank.png"
+              src="pizza.png"
             />
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
+            data-testid="fn-cell-pizza"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="blank.png"
+              src="pizza.png"
             />
           </div>
           <div
@@ -1536,6 +1366,91 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-blank"
           >
             <img
@@ -1572,11 +1487,11 @@ exports[`Model tests render component [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="pizza.png"
+              src="blank.png"
             />
           </div>
           <div
@@ -1595,6 +1510,91 @@ exports[`Model tests render component [TRIAL] 1`] = `
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
             />
           </div>
           <div
@@ -2504,15 +2504,6 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-blank"
           >
             <img
@@ -2522,96 +2513,11 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
+            data-testid="fn-cell-obstacle"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
+              src="obstacle.jpg"
             />
           </div>
           <div
@@ -2639,6 +2545,15 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
             <img
               class="sc-jSUZER kEdNSD"
               src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-obstacle"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="obstacle.jpg"
             />
           </div>
           <div
@@ -2674,47 +2589,11 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
+            data-testid="fn-cell-obstacle"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
+              src="obstacle.jpg"
             />
           </div>
           <div
@@ -2753,10 +2632,6 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
               src="blank.png"
             />
           </div>
-        </div>
-        <div
-          class="sc-hLBbgP PBcJN"
-        >
           <div
             class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
@@ -2764,51 +2639,6 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
             />
           </div>
           <div
@@ -2831,6 +2661,19 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
           >
             <img
@@ -2838,10 +2681,136 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
               src="pizza.png"
             />
           </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
         </div>
         <div
           class="sc-hLBbgP PBcJN"
         >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
           <div
             class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-blank"
@@ -2869,6 +2838,28 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
               src="pizza.png"
             />
           </div>
+        </div>
+        <div
+          class="sc-hLBbgP PBcJN"
+        >
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-obstacle"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="obstacle.jpg"
+            />
+          </div>
           <div
             class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
@@ -2876,6 +2867,15 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-obstacle"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="obstacle.jpg"
             />
           </div>
           <div
@@ -2947,6 +2947,15 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-blank"
           >
             <img
@@ -2956,38 +2965,29 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-obstacle"
           >
             <img
               class="sc-jSUZER kEdNSD"
               src="obstacle.jpg"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
             />
           </div>
           <div
@@ -3014,51 +3014,6 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-obstacle"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="obstacle.jpg"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-obstacle"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="obstacle.jpg"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-blank"
           >
             <img
@@ -3082,6 +3037,51 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
             <img
               class="sc-jSUZER kEdNSD"
               src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-blank"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
             />
           </div>
           <div
@@ -3117,6 +3117,24 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-obstacle"
           >
             <img
@@ -3144,38 +3162,20 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
               src="blank.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
             />
           </div>
         </div>
@@ -3184,11 +3184,47 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
         >
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-obstacle"
+            data-testid="fn-cell-blank"
           >
             <img
               class="sc-jSUZER kEdNSD"
-              src="obstacle.jpg"
+              src="blank.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
+            />
+          </div>
+          <div
+            class="sc-eDvSVe cfNigk"
+            data-testid="fn-cell-pizza"
+          >
+            <img
+              class="sc-jSUZER kEdNSD"
+              src="pizza.png"
             />
           </div>
           <div
@@ -3220,47 +3256,11 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           </div>
           <div
             class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-obstacle"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="obstacle.jpg"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
             data-testid="fn-cell-pizza"
           >
             <img
               class="sc-jSUZER kEdNSD"
               src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-obstacle"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="obstacle.jpg"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-pizza"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="pizza.png"
-            />
-          </div>
-          <div
-            class="sc-eDvSVe cfNigk"
-            data-testid="fn-cell-blank"
-          >
-            <img
-              class="sc-jSUZER kEdNSD"
-              src="blank.png"
             />
           </div>
         </div>
@@ -3277,16 +3277,18 @@ exports[`Model tests render component with difficulty 2 [TRIAL] 1`] = `
           />
         </button>
         <button
-          class="sc-iBYQkv ibTONz"
+          class="sc-iBYQkv SfIrA"
           data-testid="fn-controls-button-down"
+          disabled=""
         >
           <div
             class="sc-ftTHYK guqlcN"
           />
         </button>
         <button
-          class="sc-iBYQkv cCmrZb"
+          class="sc-iBYQkv knwWlk"
           data-testid="fn-controls-button-left"
+          disabled=""
         >
           <div
             class="sc-ftTHYK dqyuwh"
