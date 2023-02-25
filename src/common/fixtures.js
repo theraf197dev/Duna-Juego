@@ -1,6 +1,7 @@
 import trialImage from './media/trial_mode.jpg';
 import seekerImage from './media/seeker_mode.jpg';
 import { CellType, GameMode } from './utils';
+import { texts } from './textFixtures';
 
 const controls = [
     {
@@ -66,6 +67,7 @@ const fixtures =  {
     mode,
     seekerSpeed,
     size,
+    texts,
     time,
 };
 

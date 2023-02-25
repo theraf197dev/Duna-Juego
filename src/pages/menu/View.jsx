@@ -12,10 +12,12 @@ import {
 
 const MenuView = ({
     difficultyLvl,
+    difficultyText,
     games,
-    setGame,
+    playButtonText,
     selected,
     setDifficultyLvl,
+    setGame,
     setSelected,
 }) => {
     return (
@@ -38,14 +40,14 @@ const MenuView = ({
                 )}
             </ContainerStyles>
             <ToggleStyles>
-                <label>Difficulty</label>
+                <label>{difficultyText}</label>
                 <Toogle
                     value={difficultyLvl - 1}
                     handleChange={(isChecked) => setDifficultyLvl(isChecked + 1)}
                     id='difficulty'
                 />
             </ToggleStyles>
-            <Button buttonText='PLAY' handleClick={() => setGame(true)} />
+            <Button buttonText={playButtonText} handleClick={() => setGame(true)} />
         </>
     );
 };
@@ -57,6 +59,7 @@ const Menu = ({
     mode,
     seekerSpeed,
     size,
+    texts,
     time,
 }) => {
     const [selected, setSelected] = useState(mode);
@@ -73,12 +76,15 @@ const Menu = ({
                     restartGame={() => setGame(false)}
                     seekerSpeed={seekerSpeed}
                     size={size}
+                    texts={texts}
                     time={time}
                 />
                 :
                 <MenuView
                     difficultyLvl={difficultyLvl}
+                    difficultyText={texts.difficultyText}
                     games={games}
+                    playButtonText={texts.playButtonText}
                     selected={selected}
                     setDifficultyLvl={setDifficultyLvl}
                     setGame={setGame}

@@ -19,9 +19,9 @@ import { chooseImage } from './helper/props.js';
 import Modal from '../styled-components/components/Modal.jsx';
 import Timer from '../timer/View.jsx';
 
-const EndModal = ({ gameStatus, restartGame }) => (
+const EndModal = ({ gameStatus, restartGame, retryButtonText }) => (
     <Modal
-        buttonText='RETRY?'
+        buttonText={retryButtonText}
         handleClick={restartGame}
         image={chooseImage(gameStatus)}
         title={gameStatus.toUpperCase()}
@@ -48,6 +48,7 @@ const Game = ({
     mode,
     setCurrentPos,
     size,
+    texts,
     time,
 }) => {
     return (
@@ -55,7 +56,11 @@ const Game = ({
             {matrix ?
                 (<WrapperGameStyles>
                     {gameStatus !== GameStatus.playing &&
-                        <EndModal gameStatus={gameStatus} restartGame={restartGame} />
+                        <EndModal
+                            gameStatus={gameStatus}
+                            restartGame={restartGame}
+                            retryButtonText={texts.retryButtonText}
+                        />
                     }
 
                     {mode === GameMode.trial && <Timer
