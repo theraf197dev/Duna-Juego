@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/react-hooks": "2.0.1",
     "@testing-library/user-event": "^13.5.0",
+    "ghpages": "^0.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -25,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --watchAll=false --coverage",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -33,6 +35,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://theraf197dev.github.io/Duna-Juego",
   "browserslist": {
     "production": [
       ">0.2%",
