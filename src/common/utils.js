@@ -1,4 +1,4 @@
-import dunaImage from './media/duna.jpg';
+import playerImage from './media/player.jpg';
 import pizzaImage from './media/pizza.png';
 import blankImage from './media/blank.png';
 import obstacleImage from './media/obstacle.jpg';
@@ -27,7 +27,7 @@ const ImageCarousel = (name) => {
     // eslint-disable-next-line
     switch (name) {
         case CellType.player:
-            return dunaImage;
+            return playerImage;
         case CellType.pizza:
             return pizzaImage;
         case CellType.blank:
